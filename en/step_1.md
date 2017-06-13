@@ -26,4 +26,5 @@ Here's a table showing some colour values
 | 255 |   255 |    0 | Yellow    |
 | 255 |    10 |  180 | Hot Pink  |
 | 210 |   105 |   30 | Chocolate |
+
 --- /step ---
