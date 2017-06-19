@@ -1,7 +1,3 @@
---- step ---
----
-title: Representing colours with numbers
----
 The colour of an object depends on the light that is reflected off it or the light that it emits. The various colours of light can be seen in the diagram below. You might recognise this as the colours of the rainbow.
 
 ![spectrum](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Linear_visible_spectrum.svg/1024px-Linear_visible_spectrum.svg.png)
@@ -27,4 +23,3 @@ Here's a table showing some colour values
 | 255 |    10 |  180 | Hot Pink  |
 | 210 |   105 |   30 | Chocolate |
 
---- /step ---
