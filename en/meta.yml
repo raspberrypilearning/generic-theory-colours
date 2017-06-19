@@ -1,19 +1,10 @@
-<<<<<<< HEAD
-title: Colour Mixing
-=======
 title: Representing colours with numbers
->>>>>>> 62510c995220856893b111cd2acff4b827ca79da
 hero_image: images/banner.png
 description: Find out how colours can be represented by three number values
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: cc-prototype
-<<<<<<< HEAD
 duration: 1
-ingredient: false
-=======
-duration: 1 # 1, 2 or 3
 ingredient: true
->>>>>>> 62510c995220856893b111cd2acff4b827ca79da
 listed: false
 steps:
-  - title: Colour Mixing
+  - title: Representing colours with numbers
