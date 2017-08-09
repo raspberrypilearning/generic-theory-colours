@@ -2,7 +2,7 @@
 ---
 title: Representing colours with numbers
 ---
-The colour of an object depends on the wavelengths of light that it reflects or emits. The colours of different wavelenghts of light can be seen in the diagram below. You might recognise these as the colours of the rainbow.
+The colour of an object depends on the colour of the light that it reflects or emits. Light can have different wavelengths, and the colour of light depends on wavelength it has. The colour of light according to its wavelength can be seen in the diagram below. You might recognise this as the colours of the rainbow.
 
 ![spectrum](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Linear_visible_spectrum.svg/1024px-Linear_visible_spectrum.svg.png)
 
