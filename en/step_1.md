@@ -10,7 +10,7 @@ Computers store everything as 1s and 0s. These 1s and 0s are often organised int
 
 A single byte can represent any number from 0 up to 255.
 
-When we want to represent a colour in ca omputer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+When we want to represent a colour in a omputer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
 
 Here's a table showing some colour values:
 
