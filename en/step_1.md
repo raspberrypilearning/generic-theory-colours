@@ -22,3 +22,5 @@ Here's a table showing some colour values:
 | 255 |   255 |    0 | Yellow    |
 | 255 |    10 |  180 | Hot Pink  |
 | 210 |   105 |   30 | Chocolate |
+
+You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp).
