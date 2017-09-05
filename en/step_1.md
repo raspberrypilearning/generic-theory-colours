@@ -1,6 +1,6 @@
 The colour of an object depends on the colour of the light that it reflects or emits. Light can have different wavelengths, and the colour of light depends on wavelength it has. The colour of light according to its wavelength can be seen in the diagram below. You might recognise this as the colours of the rainbow.
 
-![spectrum](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Linear_visible_spectrum.svg/1024px-Linear_visible_spectrum.svg.png)
+![Visible spectrum](images/linear-visible-spectrum.png)
 
 Humans see colour because of special cells in their eyes. These cells are called *cones*. We have three types of cone cells and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
 
@@ -23,4 +23,8 @@ Here's a table showing some colour values:
 | 255 |    10 |  180 | Hot Pink  |
 | 210 |   105 |   30 | Chocolate |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp).
+You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+
+![Additive colour mixing](images/additive-colour-mixing.png)
+
+In additive colour mixing, three colours (red, green, and blue) are used to make other colours. In the image above, there are three spotlights of equal brightness, one for each colour. In the absence of any colour the result is black. If all three colours are mixed, the result is white. When red and green combine, the result is yellow. When red and blue combine, the result is magenta. When blue and green combine, the result is cyan. It's possible to make even more colours than this by varying the brightness of the three original colours used.
