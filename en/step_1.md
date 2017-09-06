@@ -2,7 +2,7 @@ The colour of an object depends on the colour of the light that it reflects or e
 
 ![Visible spectrum](images/linear-visible-spectrum.png)
 
-Humans see colour because of special cells in their eyes. These cells are called *cones*. We have three types of cone cells and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
+Humans see colour because of special cells in our eyes. These cells are called *cones*. We have three types of cone cells, and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
 
 ![Additive colour mixing](images/additive-colour-mixing.png)
 
