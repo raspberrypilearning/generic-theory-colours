@@ -25,4 +25,4 @@ Oto tabela przedstawiająca niektóre wartości kolorów:
 | 255      | 0       | 255       | Magenta   |
 | 0        | 255     | 255       | Cyjan     |
 
-Możesz znaleźć fajny selektor [kolorów do grania na w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
+Możesz znaleźć dobry [selektor kolorów do poćwiczenia na w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
