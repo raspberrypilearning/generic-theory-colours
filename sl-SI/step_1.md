@@ -1,8 +1,8 @@
-Barva predmeta je odvisna od barve svetlobe, ki jo odraža ali oddaja. Svetloba ima lahko različne valovne dolžine in barva svetlobe je odvisna od valovne dolžine, ki jo ima. Barva svetlobe glede na njegovo valovno dolžino lahko vidimo v spodnjem diagramu. To lahko prepoznate kot barve mavrice.
+Barva predmeta je odvisna od barve svetlobe, ki jo lahko vpija ali odbija. Svetloba ima lahko različne valovne dolžine. Barva svetlobe je odvisna od njene valovne dolžine. Barvo svetlobe glede na njeno valovno dolžino lahko vidimo v spodnjem diagramu. To lahko prepoznate kot barve mavrice.
 
 ![Vidni spekter](images/linear-visible-spectrum.png)
 
-Ljudje vidijo barvo zaradi posebnih celic v naših očeh. Te celice imenujemo *stožcev*. Imamo tri vrste stožničnih celic, vsak tip zazna rdečo, modro ali zeleno svetlobo. Zato so vse barve, ki jih vidimo, le mešanice barv rdeče, modre in zelene.
+Ljudje vidimo barvo zaradi posebnih celic v naših očeh. Te celice imenujemo *čepnice*. Obstajajo tri vrste čepnic. Vsaka zazna rdečo, modro ali zeleno svetlobo. Zato so vse barve, ki jih vidimo, le mešanice barv rdeče, modre in zelene.
 
 ![Mešanje barv dodatka](images/additive-colour-mixing.png)
 
