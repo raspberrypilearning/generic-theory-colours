@@ -1,9 +1,9 @@
 ---
 title: Farben mit Zahlen darstellen
-hero_image: Bilder / Banner.png
+hero_image: images/banner.png
 description: Finde heraus, wie Farben durch drei Zahlen repräsentiert werden können
 original_url:
-theme: cc-Prototyp
+theme: cc-prototype
 duration: 1
 ingredient: true
 listed: false
