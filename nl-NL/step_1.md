@@ -1,14 +1,14 @@
-De kleur van een voorwerp hangt af van de kleur van het licht dat het weerkaatst of uitzendt. Licht kan verschillende golflengten hebben en de kleur van licht hangt af van de golflengte die het heeft. De relatie tussen de golflengte en de kleur van het licht is te zien in het onderstaande schema. Je zou dit kunnen herkennen als de kleuren van de regenboog.
+De kleur van een voorwerp hangt af van de kleur van het licht dat het weerkaatst of uitzendt. Licht kan verschillende golflengten hebben en de kleur van licht hangt af van de golflengte die het heeft. De relatie tussen de golflengte en de kleur van het licht is te zien in het onderstaand schema. Je zou dit kunnen herkennen als de kleuren van de regenboog.
 
-![Zichtbare spectrum](images/linear-visible-spectrum.png)
+![Visible spectrum](images/linear-visible-spectrum.png)
 
-Mensen zien kleur door speciale cellen in onze ogen. Deze cellen worden *kegels* genoemd. We hebben drie soorten kegel cellen en elk soort detecteert rood, blauw of groen licht. Daarom zijn alle kleuren die we zien alleen maar mengsels van de kleuren rood, blauw en groen.
+Mensen zien kleur door speciale cellen in onze ogen. Deze cellen worden *kegels* genoemd. We hebben drie soorten kegel cellen en elk soort detecteert of rood of blauw of groen licht. Daarom zijn alle kleuren die we zien alleen maar mengsels van de kleuren rood, blauw en groen.
 
-![Additieve kleurmenging](images/additive-colour-mixing.png)
+![Additive colour mixing](images/additive-colour-mixing.png)
 
 Bij additieve kleurenmenging worden drie kleuren (rood, groen en blauw) gebruikt om andere kleuren te maken. In de afbeelding hierboven zie je drie schijnwerpers met dezelfde helderheid, één voor elke kleur. Bij afwezigheid van een kleur is het resultaat zwart. Als alle drie de kleuren gemengd zijn, is het resultaat wit. Wanneer we rood en groen combineren, is het resultaat geel. Wanneer rood en blauw samenkomen, is het resultaat magenta. Wanneer blauw en groen samenkomen, is het resultaat cyaan. Het is mogelijk om nog meer kleuren te maken door de helderheid van de drie gebruikte originele kleuren te variëren.
 
-Computers slaan alles op als enen en nullen. Deze enen en nullen zijn vaak samengevoegd in sets van 8, genaamd **bytes**.
+Computers slaan alles op in enen en nullen. Deze enen en nullen zijn vaak samengevoegd in sets van 8, genaamd **bytes**.
 
 Een enkele byte kan elk getal van 0 tot 255 vertegenwoordigen.
 
@@ -25,4 +25,4 @@ Hier is een tabel met enkele kleurwaarden:
 | 255  | 0     | 255   | Magenta |
 | 0    | 255   | 255   | Cyaan   |
 
-Je kunt een leuke [kleurenkiezer vinden om mee te spelen op w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
+Je kunt een leuke [kleurenkiezer vinden om mee te spelen op w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
