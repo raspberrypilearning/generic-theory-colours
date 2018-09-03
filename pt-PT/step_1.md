@@ -1,28 +1,28 @@
-The colour of an object depends on the colour of the light that it reflects or emits. Light can have different wavelengths, and the colour of light depends on the wavelength it has. The colour of light according to its wavelength can be seen in the diagram below. You might recognise this as the colours of the rainbow.
+A cor de um objeto depende da cor da luz que reflete ou emite. A luz pode ter diferentes comprimentos de onda, e a cor da luz depende do comprimento de onda que ela possui. A cor da luz de acordo com seu comprimento de onda pode ser vista no diagrama abaixo. Você pode reconhecer isso como as cores do arco-íris.
 
-![Visible spectrum](images/linear-visible-spectrum.png)
+![Espectro visível](images/linear-visible-spectrum.png)
 
-Humans see colour because of special cells in our eyes. These cells are called *cones*. We have three types of cone cells, and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
+Os humanos vêem a cor por causa de células especiais em nossos olhos. Essas células são chamadas *cones*. Temos três tipos de células cone, e cada tipo detecta luz vermelha, azul ou verde. Portanto, todas as cores que vemos são apenas misturas das cores vermelho, azul e verde.
 
-![Additive colour mixing](images/additive-colour-mixing.png)
+![Mistura de cor aditiva](images/additive-colour-mixing.png)
 
-In additive colour mixing, three colours (red, green, and blue) are used to make other colours. In the image above, there are three spotlights of equal brightness, one for each colour. In the absence of any colour the result is black. If all three colours are mixed, the result is white. When red and green combine, the result is yellow. When red and blue combine, the result is magenta. When blue and green combine, the result is cyan. It's possible to make even more colours than this by varying the brightness of the three original colours used.
+Na mistura de cores aditivas, três cores (vermelho, verde e azul) são usadas para fazer outras cores. Na imagem acima, há três holofotes de igual brilho, um para cada cor. Na ausência de qualquer cor, o resultado é preto. Se todas as três cores forem misturadas, o resultado será branco. Quando vermelho e verde combinam, o resultado é amarelo. Quando vermelho e azul combinam, o resultado é magenta. Quando azul e verde combinam, o resultado é ciano. É possível fazer ainda mais cores, variando o brilho das três cores originais usadas.
 
-Computers store everything as 1s and 0s. These 1s and 0s are often organised into sets of 8, called **bytes**.
+Computadores armazenam tudo como 1s e 0s. Esses 1s e 0s são geralmente organizados em conjuntos de 8, chamados **bytes**.
 
-A single byte can represent any number from 0 up to 255.
+Um único byte pode representar qualquer número de 0 a 255.
 
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Quando queremos representar uma cor em um programa de computador, podemos fazer isso definindo as quantidades de vermelho, azul e verde que compõem essa cor. Estas quantidades são geralmente armazenadas como uma única byte e, por conseguinte, como um número entre 0 e 255.
 
-Here's a table showing some colour values:
+Aqui está uma tabela mostrando alguns valores de cores:
 
-| Red | Green | Blue | Colour  |
-| --- | ----- | ---- | ------- |
-| 255 | 0     | 0    | Red     |
-| 0   | 255   | 0    | Green   |
-| 0   | 0     | 255  | Blue    |
-| 255 | 255   | 0    | Yellow  |
-| 255 | 0     | 255  | Magenta |
-| 0   | 255   | 255  | Cyan    |
+| Vermelho | Verde | Azul | Cor      |
+| -------- | ----- | ---- | -------- |
+| 255      | 0     | 0    | Vermelho |
+| 0        | 255   | 0    | Verde    |
+| 0        | 0     | 255  | Azul     |
+| 255      | 255   | 0    | Amarelo  |
+| 255      | 0     | 255  | Magenta  |
+| 0        | 255   | 255  | Ciano    |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Você pode encontrar um bom seletor de cores [para jogar no w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
