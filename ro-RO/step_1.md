@@ -1,28 +1,28 @@
-The colour of an object depends on the colour of the light that it reflects or emits. Light can have different wavelengths, and the colour of light depends on the wavelength it has. The colour of light according to its wavelength can be seen in the diagram below. You might recognise this as the colours of the rainbow.
+Culoarea unui obiect depinde de culoarea luminii pe care o reflectă sau o emite. Lumina poate avea diferite lungimi de undă, iar culoarea luminii depinde de lungimea de undă pe care o are. Culoarea luminii în funcție de lungimea de undă a acesteia poate fi văzută în diagrama de mai jos. S-ar putea să recunoașteți acest lucru ca pe culorile curcubeului.
 
-![Visible spectrum](images/linear-visible-spectrum.png)
+![Spectru vizibil](images/linear-visible-spectrum.png)
 
-Humans see colour because of special cells in our eyes. These cells are called *cones*. We have three types of cone cells, and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
+Oamenii văd culoarea din cauza celulelor speciale în ochii noștri. Aceste celule sunt numite *conuri*. Avem trei tipuri de celule conice și fiecare tip detectează lumină roșie, albastră sau verde. Prin urmare, toate culorile pe care le vedem sunt doar amestecuri de culori roșu, albastru și verde.
 
-![Additive colour mixing](images/additive-colour-mixing.png)
+![Aditivarea amestecului de culori](images/additive-colour-mixing.png)
 
-In additive colour mixing, three colours (red, green, and blue) are used to make other colours. In the image above, there are three spotlights of equal brightness, one for each colour. In the absence of any colour the result is black. If all three colours are mixed, the result is white. When red and green combine, the result is yellow. When red and blue combine, the result is magenta. When blue and green combine, the result is cyan. It's possible to make even more colours than this by varying the brightness of the three original colours used.
+În amestecarea culorilor adiționale, trei culori (roșu, verde și albastru) sunt folosite pentru a realiza alte culori. În imaginea de mai sus, există trei spoturi de luminozitate egală, câte una pentru fiecare culoare. În absența oricărei culori rezultatul este negru. Dacă toate cele trei culori sunt amestecate, rezultatul este alb. Când combinați roșu și verde, rezultatul este galben. Când combinați roșu și albastru, rezultatul este purpuriu. Când se combină albastru și verde, rezultatul este cyan. Este posibil să faceți chiar mai multe culori decât acest lucru prin modificarea luminozității celor trei culori originale utilizate.
 
-Computers store everything as 1s and 0s. These 1s and 0s are often organised into sets of 8, called **bytes**.
+Computerele stochează totul ca 1s și 0s. Aceste 1s și 0s sunt adesea organizate în seturi de 8, numite **octeți**.
 
-A single byte can represent any number from 0 up to 255.
+Un singur octet poate reprezenta orice număr de la 0 până la 255.
 
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Când vrem să reprezentăm o culoare într-un program de calculator, putem face acest lucru prin definirea cantităților de roșu, albastru și verde care alcătuiesc acea culoare. Aceste sume sunt de obicei stocate ca un singur octet și , prin urmare , ca un număr între 0 și 255.
 
-Here's a table showing some colour values:
+Iată un tabel care prezintă câteva valori de culoare:
 
-| Red | Green | Blue | Colour  |
-| --- | ----- | ---- | ------- |
-| 255 | 0     | 0    | Red     |
-| 0   | 255   | 0    | Green   |
-| 0   | 0     | 255  | Blue    |
-| 255 | 255   | 0    | Yellow  |
-| 255 | 0     | 255  | Magenta |
-| 0   | 255   | 255  | Cyan    |
+| roșu | Verde | Albastru | Culoare  |
+| ---- | ----- | -------- | -------- |
+| 255  | 0     | 0        | roșu     |
+| 0    | 255   | 0        | Verde    |
+| 0    | 0     | 255      | Albastru |
+| 255  | 255   | 0        | Galben   |
+| 255  | 0     | 255      | purpuriu |
+| 0    | 255   | 255      | Cyan     |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Puteți găsi un frumos [selector de culoare pentru a juca la W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
