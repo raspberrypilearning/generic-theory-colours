@@ -1,9 +1,9 @@
 ---
-title: Representing colours with numbers
-hero_image: images/banner.png
-description: Find out how colours can be represented by three numbers
+title: Värien esittäminen numeroilla
+hero_image: Kuvien / banner.png
+description: Selvitä, kuinka värejä voidaan edustaa kolmella numerolla
 original_url:
-theme: cc-prototype
+theme: CC-prototyyppi
 duration: 1
 ingredient: true
 listed: false
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Representing colours with numbers
+    title: Värien esittäminen numeroilla
