@@ -2,7 +2,7 @@ La couleur d'un objet dépend de la couleur de la lumière qu'il réfléchit ou 
 
 ![Spectre visible](images/linear-visible-spectrum.png)
 
-Les humains voient la couleur à cause de cellules spéciales dans nos yeux. Ces cellules sont appelées *cônes*. Nous avons trois types de cellules de cône et chaque type détecte soit une lumière rouge, bleue ou verte. Par conséquent, toutes les couleurs que nous voyons ne sont que des mélanges de couleurs rouge, bleu et vert.
+Les humains voient la couleur grâce à des cellules spéciales dans nos yeux. Ces cellules sont appelées *cônes*. Nous avons trois types de cellules de cône et chaque type détecte soit une lumière rouge, bleue ou verte. Par conséquent, toutes les couleurs que nous voyons ne sont que des mélanges de couleurs rouge, bleu et vert.
 
 ![Mélange de couleurs additif](images/additive-colour-mixing.png)
 
