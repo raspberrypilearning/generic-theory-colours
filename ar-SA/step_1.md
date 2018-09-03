@@ -25,4 +25,4 @@
 | 255  | 0    | 255  | أرجواني    |
 | 0    | 255  | 255  | ازرق سماوي |
 
-يمكنك أن تجد لطيفة [منتقي الألوان للعب مع في w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: الهدف = "_ فارغا"}.
+يمكنك أن تجد [منتقي الألوان لطيف على w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
