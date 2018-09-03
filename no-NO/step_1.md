@@ -1,8 +1,8 @@
-Fargen på et objekt avhenger av fargen på lyset som det reflekterer eller sender ut. Lyset kan ha forskjellige bølgelengder, og lysets farge avhenger av bølgelengden den har. Lysets farge i henhold til dens bølgelengde kan ses i diagrammet nedenfor. Du kan kanskje gjenkjenne dette som regnbuens farger.
+Fargen på et objekt avhenger av fargen på lyset som det reflekterer eller sender ut. Lyset kan ha forskjellige bølgelengder, og lysets farge avhenger av bølgelengden det har. Lysets farge i henhold til dets bølgelengde kan ses i diagrammet nedenfor. Du kan kanskje gjenkjenne dette som regnbuens farger.
 
 ![Synlig spektrum](images/linear-visible-spectrum.png)
 
-Mennesker ser farge på grunn av spesielle celler i våre øyne. Disse cellene kalles *kjegler*. Vi har tre typer keinseller, og hver type oppdager enten rødt, blått eller grønt lys. Derfor er alle fargene vi ser, bare blandinger av fargene rød, blå og grønn.
+Mennesker ser farge på grunn av spesielle celler i våre øyne. Disse cellene kalles *tapper*. Vi har tre typer tapper, og hver type oppfatter enten rødt, blått eller grønt lys. Derfor er alle fargene vi ser, bare blandinger av fargene rød, blå og grønn.
 
 ![Tilsetningsfarveblanding](images/additive-colour-mixing.png)
 
