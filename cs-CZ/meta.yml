@@ -1,9 +1,9 @@
 ---
-title: Representing colours with numbers
-hero_image: images/banner.png
-description: Find out how colours can be represented by three numbers
+title: Reprezentace barev s čísly
+hero_image: obrázky / banner.png
+description: Zjistěte, jak mohou být barvy reprezentovány třemi čísly
 original_url:
-theme: cc-prototype
+theme: cc-prototyp
 duration: 1
 ingredient: true
 listed: false
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Representing colours with numbers
+    title: Reprezentace barev s čísly
