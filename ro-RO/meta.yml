@@ -1,9 +1,9 @@
 ---
-title: Representing colours with numbers
-hero_image: images/banner.png
-description: Find out how colours can be represented by three numbers
+title: Reprezentarea culorilor cu numere
+hero_image: images / banner.png
+description: Aflați cum pot fi reprezentate culorile prin trei numere
 original_url:
-theme: cc-prototype
+theme: cc-prototip
 duration: 1
 ingredient: true
 listed: false
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Representing colours with numbers
+    title: Reprezentarea culorilor cu numere
