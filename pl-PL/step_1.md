@@ -1,4 +1,4 @@
-Kolor obiektu zależy od koloru światła, które on odbija lub emituje. Światło może mieć różne długości fal, a kolor światła zależy od długości fali, którą ma. Kolor światła w zależności od jego długości fali można zobaczyć na poniższym schemacie. Możesz rozpoznać to jako kolory tęczy.
+Kolor obiektu zależy od koloru światła, które on odbija lub emituje. Światło może mieć różne długości fal, a kolor światła zależy od długości fali, którą ma. Kolor światła w zależności od jego długości fali można zobaczyć na poniższym diagramie. Możesz rozpoznać to jako kolory tęczy.
 
 ![Widoczne widmo](images/linear-visible-spectrum.png)
 
