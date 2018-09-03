@@ -1,4 +1,4 @@
-Il colore di un oggetto dipende dal colore della luce che riflette o emette. La luce può avere diverse lunghezze d'onda e il colore della luce dipende dalla lunghezza d'onda che ha. Il colore della luce in base alla sua lunghezza d'onda può essere visto nel diagramma sottostante. Potresti riconoscere questo come i colori dell'arcobaleno.
+Il colore di un oggetto dipende dal colore della luce che riflette o emette. La luce può avere diverse lunghezze d'onda e il colore della luce dipende dalla sua lunghezza d'onda. Il colore della luce in base alla sua lunghezza d'onda può essere visto nel diagramma sottostante. Potresti riconoscere questo come i colori dell'arcobaleno.
 
 ![Spettro visibile](images/linear-visible-spectrum.png)
 
