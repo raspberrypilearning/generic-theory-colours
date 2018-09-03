@@ -16,13 +16,13 @@ Când vrem să reprezentăm o culoare într-un program de calculator, putem face
 
 Iată un tabel care prezintă câteva valori de culoare:
 
-| roșu | Verde | Albastru | Culoare  |
+| Roșu | Verde | Albastru | Culoare  |
 | ---- | ----- | -------- | -------- |
-| 255  | 0     | 0        | roșu     |
+| 255  | 0     | 0        | Roșu     |
 | 0    | 255   | 0        | Verde    |
 | 0    | 0     | 255      | Albastru |
 | 255  | 255   | 0        | Galben   |
-| 255  | 0     | 255      | purpuriu |
+| 255  | 0     | 255      | Purpuriu |
 | 0    | 255   | 255      | Cyan     |
 
 Puteți găsi un frumos [selector de culoare pentru a juca la W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
