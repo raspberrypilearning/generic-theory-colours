@@ -1,4 +1,4 @@
-A cor de um objeto depende da cor da luz que reflete ou emite. A luz pode ter diferentes comprimentos de onda, e a cor da luz depende do comprimento de onda que ela possui. A cor da luz de acordo com seu comprimento de onda pode ser vista no diagrama abaixo. Você pode reconhecer isso como as cores do arco-íris.
+A cor de um objeto depende da cor da luz que reflete ou emite. A luz pode ter diferentes comprimentos de onda, e a cor da luz depende do comprimento de onda que ela possui. A cor da luz de acordo com seu comprimento de onda pode ser vista no diagrama abaixo. Podes reconhecer-lo como as cores do arco-íris.
 
 ![Espectro visível](images/linear-visible-spectrum.png)
 
@@ -12,7 +12,7 @@ Computadores armazenam tudo como 1s e 0s. Esses 1s e 0s são geralmente organiza
 
 Um único byte pode representar qualquer número de 0 a 255.
 
-Quando queremos representar uma cor em um programa de computador, podemos fazer isso definindo as quantidades de vermelho, azul e verde que compõem essa cor. Estas quantidades são geralmente armazenadas como uma única byte e, por conseguinte, como um número entre 0 e 255.
+Quando queremos representar uma cor em um programa de computador, podemos fazer isso definindo as quantidades de vermelho, azul e verde que compõem essa cor. Estas quantidades são geralmente armazenadas como um único byte e, por conseguinte, como um número entre 0 e 255.
 
 Aqui está uma tabela mostrando alguns valores de cores:
 
