@@ -1,9 +1,9 @@
 ---
-title: A színek számozásával
-hero_image: images / banner.png
-description: Tudja meg, hogy a színek három számmal ábrázolhatók
+title: Színek leírása számokkal
+hero_image: images/banner.png
+description: Ismerd meg, hogyan lehet egy színt leírni három számmal
 original_url:
-theme: cc-prototípus
+theme: cc-prototype
 duration: 1
 ingredient: true
 listed: false
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: A színek számozásával
+    title: Színek leírása számokkal
