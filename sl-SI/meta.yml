@@ -1,9 +1,9 @@
 ---
 title: Predstavljanje barv s številkami
-hero_image: images / banner.png
+hero_image: images/banner.png
 description: Ugotovite, kako lahko barve predstavljajo tri številke
 original_url:
-theme: cc-prototip
+theme: cc-prototype
 duration: 1
 ingredient: true
 listed: false
