@@ -23,6 +23,6 @@ Her er en tabell som viser noen fargeverdier:
 | 0   | 0     | 255 | Blå     |
 | 255 | 255   | 0   | Gul     |
 | 255 | 0     | 255 | Magenta |
-| 0   | 255   | 255 | cyan    |
+| 0   | 255   | 255 | Cyan    |
 
 Du kan finne en fin [fargeplukker til å spille med på w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
