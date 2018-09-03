@@ -1,7 +1,7 @@
 ---
-title: Representing colours with numbers
-hero_image: images/banner.png
-description: Find out how colours can be represented by three numbers
+title: Representerer farger med tall
+hero_image: images / banner.png
+description: Finn ut hvordan farger kan representeres av tre tall
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Representing colours with numbers
+    title: Representerer farger med tall
