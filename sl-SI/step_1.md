@@ -1,28 +1,28 @@
-The colour of an object depends on the colour of the light that it reflects or emits. Light can have different wavelengths, and the colour of light depends on the wavelength it has. The colour of light according to its wavelength can be seen in the diagram below. You might recognise this as the colours of the rainbow.
+Barva predmeta je odvisna od barve svetlobe, ki jo odraža ali oddaja. Svetloba ima lahko različne valovne dolžine in barva svetlobe je odvisna od valovne dolžine, ki jo ima. Barva svetlobe glede na njegovo valovno dolžino lahko vidimo v spodnjem diagramu. To lahko prepoznate kot barve mavrice.
 
-![Visible spectrum](images/linear-visible-spectrum.png)
+![Vidni spekter](images/linear-visible-spectrum.png)
 
-Humans see colour because of special cells in our eyes. These cells are called *cones*. We have three types of cone cells, and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
+Ljudje vidijo barvo zaradi posebnih celic v naših očeh. Te celice imenujemo *stožcev*. Imamo tri vrste stožničnih celic, vsak tip zazna rdečo, modro ali zeleno svetlobo. Zato so vse barve, ki jih vidimo, le mešanice barv rdeče, modre in zelene.
 
-![Additive colour mixing](images/additive-colour-mixing.png)
+![Mešanje barv dodatka](images/additive-colour-mixing.png)
 
-In additive colour mixing, three colours (red, green, and blue) are used to make other colours. In the image above, there are three spotlights of equal brightness, one for each colour. In the absence of any colour the result is black. If all three colours are mixed, the result is white. When red and green combine, the result is yellow. When red and blue combine, the result is magenta. When blue and green combine, the result is cyan. It's possible to make even more colours than this by varying the brightness of the three original colours used.
+Pri dodatnem mešanju barv se za izdelavo drugih barv uporabljajo tri barve (rdeča, zelena in modra). Na sliki zgoraj so trije reflektorji enake svetlosti, po eno za vsako barvo. Če ni barve, je rezultat črn. Če so vse tri barve mešane, je rezultat bele barve. Ko se rdeča in zelena združita, je rezultat rumen. Ko se rdeča in modra združita, je rezultat magenta. Ko se modro in zeleno združita, je rezultat cian. Še več barv je mogoče narediti s tem, da spremenite svetlost treh prvotnih barv.
 
-Computers store everything as 1s and 0s. These 1s and 0s are often organised into sets of 8, called **bytes**.
+Računalniki shranjujejo vse kot 1s in 0s. Te 1s in 0s so pogosto organizirane v množice 8, imenovane **bajtov**.
 
-A single byte can represent any number from 0 up to 255.
+En sam bajt lahko predstavlja poljubno število od 0 do 255.
 
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Ko želimo predstaviti barvo v računalniškem programu, lahko to naredimo tako, da določimo količine rdeče, modre in zelene barve, ki tvorijo to barvo. Ti zneski so običajno shranjeni kot en sam bajt in zato kot število med 0 in 255.
 
-Here's a table showing some colour values:
+Tukaj je tabela z nekaj barvnimi vrednostmi:
 
-| Red | Green | Blue | Colour  |
-| --- | ----- | ---- | ------- |
-| 255 | 0     | 0    | Red     |
-| 0   | 255   | 0    | Green   |
-| 0   | 0     | 255  | Blue    |
-| 255 | 255   | 0    | Yellow  |
-| 255 | 0     | 255  | Magenta |
-| 0   | 255   | 255  | Cyan    |
+| rdeča | Zelena | Modra | Barva   |
+| ----- | ------ | ----- | ------- |
+| 255   | 0      | 0     | rdeča   |
+| 0     | 255    | 0     | Zelena  |
+| 0     | 0      | 255   | Modra   |
+| 255   | 255    | 0     | Rumena  |
+| 255   | 0      | 255   | Magenta |
+| 0     | 255    | 255   | Cijan   |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Najdete lepo [izbirnik barv za igro na w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
