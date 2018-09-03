@@ -1,6 +1,6 @@
 De kleur van een voorwerp hangt af van de kleur van het licht dat het weerkaatst of uitzendt. Licht kan verschillende golflengten hebben en de kleur van licht hangt af van de golflengte die het heeft. De relatie tussen de golflengte en de kleur van het licht is te zien in het onderstaand schema. Je zou dit kunnen herkennen als de kleuren van de regenboog.
 
-![Visible spectrum](images/linear-visible-spectrum.png)
+![Zichtbare spectrum](images/linear-visible-spectrum.png)
 
 Mensen zien kleur door speciale cellen in onze ogen. Deze cellen worden *kegels* genoemd. We hebben drie soorten kegel cellen en elk soort detecteert of rood of blauw of groen licht. Daarom zijn alle kleuren die we zien alleen maar mengsels van de kleuren rood, blauw en groen.
 
