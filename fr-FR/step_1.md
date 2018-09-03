@@ -10,7 +10,7 @@ Dans le mélange de couleurs additif, trois couleurs (rouge, vert et bleu) sont 
 
 Les ordinateurs stockent tout en tant que 1 et 0. Ces 1 et 0 sont souvent organisés en ensembles de 8, appelés **octets**.
 
-Un seul octet peut représenter un nombre quelconque de 0 à 255.
+Un seul octet peut représenter n'importe quel nombre de 0 à 255.
 
 Lorsque nous voulons représenter une couleur dans un programme informatique, nous pouvons le faire en définissant les quantités de rouge, de bleu et de vert qui composent cette couleur. Ces quantités sont généralement stockés sous forme d' un seul octet et donc comme un nombre compris entre 0 et 255.
 
