@@ -1,9 +1,9 @@
 ---
-title: Representing colours with numbers
-hero_image: images/banner.png
-description: Find out how colours can be represented by three numbers
+title: Reprezentowanie kolorów za pomocą liczb
+hero_image: images / banner.png
+description: Dowiedz się, jak kolory mogą być reprezentowane przez trzy liczby
 original_url:
-theme: cc-prototype
+theme: prototyp cc
 duration: 1
 ingredient: true
 listed: false
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Representing colours with numbers
+    title: Reprezentowanie kolorów za pomocą liczb
