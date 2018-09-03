@@ -1,28 +1,28 @@
-The colour of an object depends on the colour of the light that it reflects or emits. Light can have different wavelengths, and the colour of light depends on the wavelength it has. The colour of light according to its wavelength can be seen in the diagram below. You might recognise this as the colours of the rainbow.
+Objekti värv sõltub selle valguse värvusest, mida see peegeldab või kiirgab. Valgus võib olla erinev lainepikkus ja valguse värvus sõltub selle lainepikkust. Valgusvärvi vastavalt oma lainepikkusele on näha alljärgnevas skeemis. Võib tunda seda vikerkaare värvana.
 
-![Visible spectrum](images/linear-visible-spectrum.png)
+![Nähtav spekter](images/linear-visible-spectrum.png)
 
-Humans see colour because of special cells in our eyes. These cells are called *cones*. We have three types of cone cells, and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
+Inimesed näevad värvi eriliste rakkude tõttu meie silmis. Neid rakke nimetatakse *koonuseks*. Meil on kolm koonusjoont ja iga tüüp tuvastab kas punase, sinise või rohelise valguse. Seepärast on kõik värvid, mida me näeme, lihtsalt värvide segu, punane, sinine ja roheline.
 
-![Additive colour mixing](images/additive-colour-mixing.png)
+![Lisandite värvide segamine](images/additive-colour-mixing.png)
 
-In additive colour mixing, three colours (red, green, and blue) are used to make other colours. In the image above, there are three spotlights of equal brightness, one for each colour. In the absence of any colour the result is black. If all three colours are mixed, the result is white. When red and green combine, the result is yellow. When red and blue combine, the result is magenta. When blue and green combine, the result is cyan. It's possible to make even more colours than this by varying the brightness of the three original colours used.
+Aditiivse värvi segamisel kasutatakse teisi värve valmistamiseks kolme värvi (punane, roheline ja sinine). Ülaltoodud pildil on kolm võrdväärse heledusega täppi, üks iga värvi kohta. Kui värv puudub, on tulemuseks must. Kui kõik kolm värvi on segatud, on tulemus valge. Kui punane ja roheline kombineeritakse, on tulemus kollased. Kui punane ja sinine ühendada, on tulemuseks magenta. Kui sinine ja roheline kombineerida, on tulemuseks sinine. Võimalik on teha veelgi rohkem värve kui see, kui muudate kasutatud kolme originaalse värvuse heledust.
 
-Computers store everything as 1s and 0s. These 1s and 0s are often organised into sets of 8, called **bytes**.
+Arvutid hoiavad kõike 1s ja 0s. Need 1s ja 0s on tihti korrastatud kogumitesse 8, mida nimetatakse **baitiks**.
 
-A single byte can represent any number from 0 up to 255.
+Ühe baidi võib esindada mis tahes arvu vahemikus 0 kuni 255.
 
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Kui me tahame arvutiprogrammi värvi esindada, saame seda teha, määratledes selle värvi moodustavate punaste, sinise ja rohelise hulga. Neid koguseid hoitakse tavaliselt ühe baidise ja seega numbrina vahemikus 0 kuni 255.
 
-Here's a table showing some colour values:
+Siin on tabel, mis näitab värviväärtusi:
 
-| Red | Green | Blue | Colour  |
-| --- | ----- | ---- | ------- |
-| 255 | 0     | 0    | Red     |
-| 0   | 255   | 0    | Green   |
-| 0   | 0     | 255  | Blue    |
-| 255 | 255   | 0    | Yellow  |
-| 255 | 0     | 255  | Magenta |
-| 0   | 255   | 255  | Cyan    |
+| Punane | Roheline | Sinine | Värv     |
+| ------ | -------- | ------ | -------- |
+| 255    | 0        | 0      | Punane   |
+| 0      | 255      | 0      | Roheline |
+| 0      | 0        | 255    | Sinine   |
+| 255    | 255      | 0      | Kollane  |
+| 255    | 0        | 255    | Magenta  |
+| 0      | 255      | 255    | Tsüaan   |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Võite leida kena [värvivalija mängida w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
