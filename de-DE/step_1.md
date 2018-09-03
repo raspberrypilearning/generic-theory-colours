@@ -1,12 +1,12 @@
-Die Farbe eines Objekts hängt von der Farbe des Lichts ab, das es reflektiert oder ausstrahlt. Licht kann verschiedene Wellenlängen haben, und die Farbe des Lichts hängt von der seiner Wellenlänge ab. Die Farbe des Lichts in Abhängigkeit von seiner Wellenlänge ist in der folgenden Abbildung zu sehen. Sie können dies als die Farben des Regenbogens erkennen.
+Die Farbe eines Objekts hängt von der Farbe des Lichts ab, das es reflektiert oder ausstrahlt. Licht kann verschiedene Wellenlängen haben, und die Farbe des Lichts hängt von der seiner Wellenlänge ab. Die Farbe des Lichts in Abhängigkeit von seiner Wellenlänge ist in der folgenden Abbildung zu sehen. Du kannst hier die Farben des Regenbogens erkennen.
 
 ![Sichtbares Spektrum](images/linear-visible-spectrum.png)
 
-Menschen sehen Farbe aufgrund spezieller Zellen in unseren Augen. Diese Zellen werden *Kegel*. Wir haben drei Arten von Kegelzellen und jeder Typ erkennt entweder rotes, blaues oder grünes Licht. Daher sind alle Farben, die wir sehen, nur Mischungen der Farben Rot, Blau und Grün.
+Menschen sehen Farben aufgrund spezieller Zellen in unseren Augen. Diese Zellen werden *Zapfen* genannt. Wir haben drei Arten von Zapfen und jeder Typ erkennt entweder rotes, blaues oder grünes Licht. Daher sind alle Farben, die wir sehen, nur Mischungen der Farben Rot, Blau und Grün.
 
 ![Additive Farbmischung](images/additive-colour-mixing.png)
 
-Bei der additiven Farbmischung werden drei Farben (rot, grün und blau) verwendet, um andere Farben zu erzeugen. Im obigen Bild sind drei Scheinwerfer gleicher Helligkeit, einer für jede Farbe. Wenn keine Farbe vorhanden ist, ist das Ergebnis schwarz. Wenn alle drei Farben gemischt sind, ist das Ergebnis weiß. Wenn Rot und Grün kombiniert werden, ist das Ergebnis gelb. Wenn Rot und Blau kombiniert werden, ist das Ergebnis Magenta. Wenn Blau und Grün kombiniert werden, ist das Ergebnis Cyan. Es ist möglich, noch mehr Farben zu erzeugen, indem die Helligkeit der drei verwendeten Originalfarben variiert wird.
+Bei der additiven Farbmischung werden drei Farben (Rot, Grün und Blau) verwendet, um andere Farben zu erzeugen. Im obigen Bild sind drei Scheinwerfer gleicher Helligkeit, einer für jede Farbe. Wenn keine Farbe vorhanden ist, ist das Ergebnis schwarz. Wenn alle drei Farben gemischt sind, ist das Ergebnis weiß. Wenn Rot und Grün kombiniert werden, ist das Ergebnis Gelb. Wenn Rot und Blau kombiniert werden, ist das Ergebnis Magenta. Wenn Blau und Grün kombiniert werden, ist das Ergebnis Cyan. Es ist möglich, noch mehr Farben zu erzeugen, indem die Helligkeit der drei verwendeten Originalfarben variiert wird.
 
 Computer speichern alles als 1s und 0s. Diese 1s und 0s sind oft in Gruppen von 8 organisiert, die **Bytes**.
 
