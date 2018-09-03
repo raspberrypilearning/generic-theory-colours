@@ -6,13 +6,13 @@ Menschen sehen Farben aufgrund spezieller Zellen in unseren Augen. Diese Zellen 
 
 ![Additive Farbmischung](images/additive-colour-mixing.png)
 
-Bei der additiven Farbmischung werden drei Farben (Rot, Grün und Blau) verwendet, um andere Farben zu erzeugen. Im obigen Bild sind drei Scheinwerfer gleicher Helligkeit, einer für jede Farbe. Wenn keine Farbe vorhanden ist, ist das Ergebnis schwarz. Wenn alle drei Farben gemischt sind, ist das Ergebnis weiß. Wenn Rot und Grün kombiniert werden, ist das Ergebnis Gelb. Wenn Rot und Blau kombiniert werden, ist das Ergebnis Magenta. Wenn Blau und Grün kombiniert werden, ist das Ergebnis Cyan. Es ist möglich, noch mehr Farben zu erzeugen, indem die Helligkeit der drei verwendeten Originalfarben variiert wird.
+Bei der additiven Farbmischung werden drei Farben (Rot, Grün und Blau) verwendet, um andere Farben zu erzeugen. Im obigen Bild sind drei Scheinwerfer gleicher Helligkeit, einer für jede Farbe. Wenn keine Farbe vorhanden ist, ist das Ergebnis schwarz. Wenn alle drei Farben gemischt sind, ist das Ergebnis weiß. Wenn Rot und Grün kombiniert werden, ist das Ergebnis Gelb. Wenn Rot und Blau kombiniert werden, ist das Ergebnis Magenta. Wenn Blau und Grün kombiniert werden, ist das Ergebnis Cyan. Es ist möglich, noch mehr Farben zu erzeugen, indem die Helligkeit der drei verwendeten Originalfarben geändert wird.
 
-Computer speichern alles als 1s und 0s. Diese 1s und 0s sind oft in Gruppen von 8 organisiert, die **Bytes**.
+Computer speichern alles als Einsen und Nullen. Diese Einsen und Nullen sind oft in Achtergruppen organisiert, die **Bytes** genannt werden.
 
 Ein einzelnes Byte kann eine beliebige Zahl von 0 bis 255 darstellen.
 
-Wenn wir eine Farbe in einem Computerprogramm darstellen wollen, können wir dies tun, indem wir die Mengen an Rot, Blau und Grün definieren, aus denen diese Farbe besteht. Diese Beträge werden in der Regel als Einzel gespeichert Byte und damit als eine Zahl zwischen 0 und 255.
+Wenn wir eine Farbe in einem Computerprogramm darstellen wollen, können wir dies tun, indem wir die Mengen an Rot, Blau und Grün definieren, aus denen diese Farbe besteht. Diese Mengen werden in der Regel als ein einzelnes Byte gespeichert, also als eine Zahl zwischen 0 und 255.
 
 Hier ist eine Tabelle mit einigen Farbwerten:
 
