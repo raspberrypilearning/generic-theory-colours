@@ -1,28 +1,28 @@
-The colour of an object depends on the colour of the light that it reflects or emits. Light can have different wavelengths, and the colour of light depends on the wavelength it has. The colour of light according to its wavelength can be seen in the diagram below. You might recognise this as the colours of the rainbow.
+Il colore di un oggetto dipende dal colore della luce che riflette o emette. La luce può avere diverse lunghezze d'onda e il colore della luce dipende dalla lunghezza d'onda che ha. Il colore della luce in base alla sua lunghezza d'onda può essere visto nel diagramma sottostante. Potresti riconoscere questo come i colori dell'arcobaleno.
 
-![Visible spectrum](images/linear-visible-spectrum.png)
+![Spettro visibile](images/linear-visible-spectrum.png)
 
-Humans see colour because of special cells in our eyes. These cells are called *cones*. We have three types of cone cells, and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
+Gli umani vedono il colore a causa di cellule speciali nei nostri occhi. Queste celle sono chiamate *coni*. Abbiamo tre tipi di celle coniche e ogni tipo rileva la luce rossa, blu o verde. Quindi tutti i colori che vediamo sono solo miscele dei colori rosso, blu e verde.
 
-![Additive colour mixing](images/additive-colour-mixing.png)
+![Miscelazione del colore additivo](images/additive-colour-mixing.png)
 
-In additive colour mixing, three colours (red, green, and blue) are used to make other colours. In the image above, there are three spotlights of equal brightness, one for each colour. In the absence of any colour the result is black. If all three colours are mixed, the result is white. When red and green combine, the result is yellow. When red and blue combine, the result is magenta. When blue and green combine, the result is cyan. It's possible to make even more colours than this by varying the brightness of the three original colours used.
+Nella miscelazione del colore additivo, tre colori (rosso, verde e blu) vengono utilizzati per creare altri colori. Nell'immagine sopra, ci sono tre faretti di uguale luminosità, uno per ogni colore. In assenza di qualsiasi colore il risultato è nero. Se tutti e tre i colori sono mescolati, il risultato è bianco. Quando il rosso e il verde si combinano, il risultato è giallo. Quando il rosso e il blu si combinano, il risultato è magenta. Quando il blu e il verde si combinano, il risultato è ciano. È possibile rendere ancora più colori di questo variando la luminosità dei tre colori originali utilizzati.
 
-Computers store everything as 1s and 0s. These 1s and 0s are often organised into sets of 8, called **bytes**.
+I computer memorizzano tutto come 1 e 0. Questi 1 e 0 sono spesso organizzati in gruppi di 8, chiamati **byte**.
 
-A single byte can represent any number from 0 up to 255.
+Un singolo byte può rappresentare qualsiasi numero compreso tra 0 e 255.
 
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Quando vogliamo rappresentare un colore in un programma per computer, possiamo farlo definendo le quantità di rosso, blu e verde che costituiscono quel colore. Questi importi sono solitamente memorizzati come un singolo byte e quindi come un numero compreso tra 0 e 255.
 
-Here's a table showing some colour values:
+Ecco una tabella che mostra alcuni valori di colore:
 
-| Red | Green | Blue | Colour  |
-| --- | ----- | ---- | ------- |
-| 255 | 0     | 0    | Red     |
-| 0   | 255   | 0    | Green   |
-| 0   | 0     | 255  | Blue    |
-| 255 | 255   | 0    | Yellow  |
-| 255 | 0     | 255  | Magenta |
-| 0   | 255   | 255  | Cyan    |
+| Rosso | verde | Blu | Colore  |
+| ----- | ----- | --- | ------- |
+| 255   | 0     | 0   | Rosso   |
+| 0     | 255   | 0   | verde   |
+| 0     | 0     | 255 | Blu     |
+| 255   | 255   | 0   | Giallo  |
+| 255   | 0     | 255 | Magenta |
+| 0     | 255   | 255 | Ciano   |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Puoi trovare un simpatico selettore a [con cui giocare su w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
