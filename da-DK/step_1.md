@@ -1,28 +1,28 @@
-The colour of an object depends on the colour of the light that it reflects or emits. Light can have different wavelengths, and the colour of light depends on the wavelength it has. The colour of light according to its wavelength can be seen in the diagram below. You might recognise this as the colours of the rainbow.
+Farven på et objekt afhænger af farven på det lys, det reflekterer eller udsender. Lyset kan have forskellige bølgelængder, og lysets farve afhænger af den bølgelængde, den har. Lysets farve ifølge dens bølgelængde kan ses i diagrammet nedenfor. Du kan måske genkende dette som regnbuens farver.
 
-![Visible spectrum](images/linear-visible-spectrum.png)
+![Synligt spektrum](images/linear-visible-spectrum.png)
 
-Humans see colour because of special cells in our eyes. These cells are called *cones*. We have three types of cone cells, and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
+Mennesker ser farve på grund af specielle celler i vores øjne. Disse celler kaldes *kegler*. Vi har tre typer af kegleceller, og hver type opdager enten rødt, blåt eller grønt lys. Derfor er alle de farver, vi ser, bare blandinger af farverne røde, blå og grønne.
 
-![Additive colour mixing](images/additive-colour-mixing.png)
+![Additiv farveblanding](images/additive-colour-mixing.png)
 
-In additive colour mixing, three colours (red, green, and blue) are used to make other colours. In the image above, there are three spotlights of equal brightness, one for each colour. In the absence of any colour the result is black. If all three colours are mixed, the result is white. When red and green combine, the result is yellow. When red and blue combine, the result is magenta. When blue and green combine, the result is cyan. It's possible to make even more colours than this by varying the brightness of the three original colours used.
+I additiv farveblanding bruges tre farver (rød, grøn og blå) til at lave andre farver. På billedet ovenfor er der tre spotlights med ensartet lysstyrke, en for hver farve. I mangel af nogen farve er resultatet sort. Hvis alle tre farver blandes, er resultatet hvidt. Når rød og grøn kombineres, er resultatet gul. Når rød og blå kombineres, er resultatet magenta. Når blå og grøn kombineres, er resultatet cyan. Det er muligt at lave endnu flere farver end dette ved at variere lysstyrken af ​​de tre originale farver, der bruges.
 
-Computers store everything as 1s and 0s. These 1s and 0s are often organised into sets of 8, called **bytes**.
+Computere gemmer alt som 1s og 0s. Disse 1s og 0s er ofte organiseret i sæt af 8, kaldet **bytes**.
 
-A single byte can represent any number from 0 up to 255.
+En enkelt byte kan repræsentere ethvert tal fra 0 op til 255.
 
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Når vi vil repræsentere en farve i et computerprogram, kan vi gøre dette ved at definere mængderne af rød, blå og grøn, der udgør den farve. Disse beløb gemmes normalt som en enkelt byte og derfor som et tal mellem 0 og 255.
 
-Here's a table showing some colour values:
+Her er et bord med nogle farveværdier:
 
-| Red | Green | Blue | Colour  |
-| --- | ----- | ---- | ------- |
-| 255 | 0     | 0    | Red     |
-| 0   | 255   | 0    | Green   |
-| 0   | 0     | 255  | Blue    |
-| 255 | 255   | 0    | Yellow  |
-| 255 | 0     | 255  | Magenta |
-| 0   | 255   | 255  | Cyan    |
+| Rød | Grøn | Blå | Farve   |
+| --- | ---- | --- | ------- |
+| 255 | 0    | 0   | Rød     |
+| 0   | 255  | 0   | Grøn    |
+| 0   | 0    | 255 | Blå     |
+| 255 | 255  | 0   | Gul     |
+| 255 | 0    | 255 | Magenta |
+| 0   | 255  | 255 | Cyan    |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Du kan finde en flot [farvevælger til at spille hos w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
