@@ -1,12 +1,12 @@
-Az objektum színe attól függ, hogy a fény milyen tükrözi vagy kibocsát. A fény különböző hullámhosszakkal rendelkezik, és a fény színe a hullámhosszától függ. A fény hullámhossza szerinti színét az alábbi ábrán láthatjuk. Ezt fel lehet ismerni a szivárvány színeinek.
+Egy tárgy színe az általa visszavert vagy kibocsátott fény színétől függ. A fény különböző hullámhosszú lehet, és a fény színe a hullámhosszától függ. A fény hullámhossza szerinti színét az alábbi ábrán láthatjuk. Ez ismerős lehet a szivárvány színeiből.
 
 ![Látható spektrum](images/linear-visible-spectrum.png)
 
-Az emberek különleges színeket látnak a szemünkben. Ezeket a sejteket *kúp*hívják. Háromféle kúpos cellánk van, és mindegyik típus piros, kék vagy zöld fényt érzékel. Ezért minden olyan szín, amit látunk, csak a piros, kék és zöld színek keveréke.
+Az emberek színesen látnak, mivel speciális sejtek vannak a szemünkben. Ezeket a sejteket *csap*nak hívjuk. Háromféle csap sejtünk van, és mindegyik típus a vörös, kék vagy zöld fényt érzékeli. Ezért minden olyan szín, amelyet látunk, csak a piros, kék és zöld színek keveréke.
 
 ![Adalék színkeverés](images/additive-colour-mixing.png)
 
-Az adalékanyag színkeveréshez három színt (piros, zöld és kék) használnak más színek készítéséhez. A fenti képen három fénysugárzó egyenlő fényerővel rendelkezik, egy színenként. Szín hiányában az eredmény fekete. Ha mindhárom szín keveredik, az eredmény fehér. Amikor a vörös és a zöld szín kombinálódik, az eredmény sárga. Amikor vörös és kék kombinálódik, az eredmény bíbor. Amikor kék és zöld kombinálódik, az eredmény cián. Ezzel még több színt lehet készíteni, mint a három eredeti szín fényerejét.
+Az additív (összeadó) színkeverésnél három színt (vörös, zöld és kék) használnak más színek létrehozására. A fenti képen három fénysugárzó egyenlő fényerővel rendelkezik, egy színenként. Szín hiányában az eredmény fekete. Ha mindhárom szín keveredik, az eredmény fehér. Amikor a vörös és a zöld szín kombinálódik, az eredmény sárga. Amikor vörös és kék kombinálódik, az eredmény bíbor. Amikor kék és zöld kombinálódik, az eredmény cián. Ezzel még több színt lehet készíteni, mint a három eredeti szín fényerejét.
 
 A számítógépek mindent 1-et és 0-t tárolnak. Ezeket az 1-eseket és a 0 -kat gyakran 8-as készleteknek, **byte-nak nevezik**.
 
