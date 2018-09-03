@@ -4,7 +4,7 @@ Fargen på et objekt avhenger av fargen på lyset som det reflekterer eller send
 
 Mennesker ser farge på grunn av spesielle celler i våre øyne. Disse cellene kalles *tapper*. Vi har tre typer tapper, og hver type oppfatter enten rødt, blått eller grønt lys. Derfor er alle fargene vi ser, bare blandinger av fargene rød, blå og grønn.
 
-![Tilsetningsfarveblanding](images/additive-colour-mixing.png)
+![Additiv farveblanding](images/additive-colour-mixing.png)
 
 I additiv fargeblanding brukes tre farger (rød, grønn og blå) til å lage andre farger. I bildet ovenfor er det tre spotlighter med lik lysstyrke, en for hver farge. I fravær av farge er resultatet svart. Hvis alle tre farger er blandet, er resultatet hvit. Når rød og grønn kombineres, blir resultatet gult. Når rød og blå kombineres, er resultatet magenta. Når blå og grønn kombineres, er resultatet cyan. Det er mulig å lage enda flere farger enn dette ved å variere lysstyrken til de tre originale fargene som brukes.
 
@@ -25,4 +25,4 @@ Her er en tabell som viser noen fargeverdier:
 | 255 | 0     | 255 | Magenta |
 | 0   | 255   | 255 | Cyan    |
 
-Du kan finne en fin [fargeplukker til å spille med på w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
+Du kan finne en fin [fargevelger til å leke med på w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
