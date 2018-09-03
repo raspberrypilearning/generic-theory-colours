@@ -1,28 +1,28 @@
-The colour of an object depends on the colour of the light that it reflects or emits. Light can have different wavelengths, and the colour of light depends on the wavelength it has. The colour of light according to its wavelength can be seen in the diagram below. You might recognise this as the colours of the rainbow.
+Az objektum színe attól függ, hogy a fény milyen tükrözi vagy kibocsát. A fény különböző hullámhosszakkal rendelkezik, és a fény színe a hullámhosszától függ. A fény hullámhossza szerinti színét az alábbi ábrán láthatjuk. Ezt fel lehet ismerni a szivárvány színeinek.
 
-![Visible spectrum](images/linear-visible-spectrum.png)
+![Látható spektrum](images/linear-visible-spectrum.png)
 
-Humans see colour because of special cells in our eyes. These cells are called *cones*. We have three types of cone cells, and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
+Az emberek különleges színeket látnak a szemünkben. Ezeket a sejteket *kúp*hívják. Háromféle kúpos cellánk van, és mindegyik típus piros, kék vagy zöld fényt érzékel. Ezért minden olyan szín, amit látunk, csak a piros, kék és zöld színek keveréke.
 
-![Additive colour mixing](images/additive-colour-mixing.png)
+![Adalék színkeverés](images/additive-colour-mixing.png)
 
-In additive colour mixing, three colours (red, green, and blue) are used to make other colours. In the image above, there are three spotlights of equal brightness, one for each colour. In the absence of any colour the result is black. If all three colours are mixed, the result is white. When red and green combine, the result is yellow. When red and blue combine, the result is magenta. When blue and green combine, the result is cyan. It's possible to make even more colours than this by varying the brightness of the three original colours used.
+Az adalékanyag színkeveréshez három színt (piros, zöld és kék) használnak más színek készítéséhez. A fenti képen három fénysugárzó egyenlő fényerővel rendelkezik, egy színenként. Szín hiányában az eredmény fekete. Ha mindhárom szín keveredik, az eredmény fehér. Amikor a vörös és a zöld szín kombinálódik, az eredmény sárga. Amikor vörös és kék kombinálódik, az eredmény bíbor. Amikor kék és zöld kombinálódik, az eredmény cián. Ezzel még több színt lehet készíteni, mint a három eredeti szín fényerejét.
 
-Computers store everything as 1s and 0s. These 1s and 0s are often organised into sets of 8, called **bytes**.
+A számítógépek mindent 1-et és 0-t tárolnak. Ezeket az 1-eseket és a 0 -kat gyakran 8-as készleteknek, **byte-nak nevezik**.
 
-A single byte can represent any number from 0 up to 255.
+Egyetlen byte lehet bármely szám 0-tól 255-ig.
 
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Ha egy számítógépes programban színt akarunk képviselni, akkor ezt úgy tehetjük meg, hogy meghatározzuk a színt alkotó piros, kék és zöld mennyiségeket. Ezeket az összegeket általában egyetlen bájt tárolják, és így 0 és 255 közötti számként.
 
-Here's a table showing some colour values:
+Íme egy táblázat, amely néhány színértéket mutat be:
 
-| Red | Green | Blue | Colour  |
-| --- | ----- | ---- | ------- |
-| 255 | 0     | 0    | Red     |
-| 0   | 255   | 0    | Green   |
-| 0   | 0     | 255  | Blue    |
-| 255 | 255   | 0    | Yellow  |
-| 255 | 0     | 255  | Magenta |
-| 0   | 255   | 255  | Cyan    |
+| Piros | Zöld | Kék | Szín       |
+| ----- | ---- | --- | ---------- |
+| 255   | 0    | 0   | Piros      |
+| 0     | 255  | 0   | Zöld       |
+| 0     | 0    | 255 | Kék        |
+| 255   | 255  | 0   | Sárga      |
+| 255   | 0    | 255 | Bíborvörös |
+| 0     | 255  | 255 | Cián       |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Megtalálhatsz egy szép [színválasztót, amellyel játszhatsz a w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
