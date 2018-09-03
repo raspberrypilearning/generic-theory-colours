@@ -12,7 +12,7 @@ Los ordenadores almacenan todo como 1s y 0s. Estos 1s y 0s a menudo se organizan
 
 Un solo byte puede representar cualquier número desde 0 hasta 255.
 
-Cuando queremos representar un color en un programa de ordenador, podemos hacerlo definiendo las cantidades de rojo, azul y verde que componen ese color. Estas cantidades se almacenan por lo general como un solo byte y por lo tanto como un número entre 0 y 255.
+Cuando queremos representar un color en un programa de ordenador, podemos hacerlo definiendo las cantidades de rojo, azul y verde que componen ese color. Estas cantidades se almacenan por lo general como un solo byte y, por lo tanto, como un número entre 0 y 255.
 
 Aquí hay una tabla que muestra algunos valores de color:
 
