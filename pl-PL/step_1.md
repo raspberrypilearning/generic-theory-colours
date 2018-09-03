@@ -6,9 +6,9 @@ Ludzie widzą kolor, dzięki specjalnym komórkom w swoich oczach. Te komórki n
 
 ![Synteza addytywna barw](images/additive-colour-mixing.png)
 
-W syntezie addytywnej barw, trzy kolory (czerwony, zielony i niebieski) są używane do tworzenia innych kolorów. Na powyższym obrazku znajdują się trzy reflektory o równej jasności, po jednej dla każdego koloru. W przypadku braku koloru wynik jest czarny. Jeśli wszystkie trzy kolory są zmieszane, wynikiem jest biały. Kiedy czerwień i zieleń łączą się, wynik jest żółty. Kiedy czerwony i niebieski łączą się, wynikiem jest magenta. Kiedy łączą się niebieskie i zielone, wynikiem jest błękitny. Można uzyskać jeszcze więcej kolorów, zmieniając jasność użytych trzech kolorów oryginału.
+W syntezie addytywnej barw, trzy kolory (czerwony, zielony i niebieski) są używane do tworzenia innych kolorów. Na powyższym obrazku znajdują się trzy punkty świetlne o równej jasności, po jednym dla każdego koloru. W przypadku braku koloru wynik jest czarny. Jeśli wszystkie trzy kolory są zmieszane, wynikiem jest biały. Kiedy czerwień i zieleń łączą się, wynik jest żółty. Kiedy czerwony i niebieski łączą się, wynikiem jest magenta. Kiedy łączą się niebieskie i zielone, wynikiem jest cyjan. Można uzyskać jeszcze więcej kolorów, zmieniając jasność użytych pierwotnie trzech kolorów.
 
-Komputery przechowują wszystko jako 1s i 0s. Te 1 i 0 są często zorganizowane w zestawy 8, zwane **bajtami**.
+Komputery przechowują wszystko jako jedynki i zera. Te 1 i 0 są często zorganizowane w zestawy 8, zwane **bajtami**.
 
 Pojedynczy bajt może reprezentować dowolną liczbę od 0 do 255.
 
