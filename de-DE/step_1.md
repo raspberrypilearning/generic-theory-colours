@@ -1,8 +1,8 @@
-Die Farbe eines Objekts hängt von der Farbe des Lichts ab, das es reflektiert oder ausstrahlt. Licht kann verschiedene Wellenlängen haben, und die Farbe des Lichts hängt von der seiner Wellenlänge ab. Die Farbe des Lichts in Abhängigkeit von seiner Wellenlänge ist in der folgenden Abbildung zu sehen. Du kannst hier die Farben des Regenbogens erkennen.
+Die Farbe eines Objekts hängt von der Farbe des Lichts ab, das es reflektiert oder ausstrahlt. Licht kann verschiedene Wellenlängen haben und die Farbe des Lichts hängt von seiner Wellenlänge ab. Die Farbe des Lichts in Abhängigkeit von seiner Wellenlänge ist in der folgenden Abbildung zu sehen. Du kannst hier die Farben des Regenbogens erkennen.
 
 ![Sichtbares Spektrum](images/linear-visible-spectrum.png)
 
-Menschen sehen Farben aufgrund spezieller Zellen in unseren Augen. Diese Zellen werden *Zapfen* genannt. Wir haben drei Arten von Zapfen und jeder Typ erkennt entweder rotes, blaues oder grünes Licht. Daher sind alle Farben, die wir sehen, nur Mischungen der Farben Rot, Blau und Grün.
+Menschen sehen Farben aufgrund spezieller Zellen in ihren Augen. Diese Zellen werden *Zapfen* genannt. Wir haben drei Arten von Zapfen und jeder Typ erkennt entweder rotes, blaues oder grünes Licht. Daher sind alle Farben, die wir sehen, nur Mischungen der Farben Rot, Blau und Grün.
 
 ![Additive Farbmischung](images/additive-colour-mixing.png)
 
