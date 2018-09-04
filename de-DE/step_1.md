@@ -12,7 +12,7 @@ Computer speichern alles in Form von Einsen und Nullen. Diese Einsen und Nullen 
 
 Ein einzelnes Byte kann eine beliebige Zahl von 0 bis 255 darstellen.
 
-Wenn wir eine Farbe in einem Computerprogramm darstellen wollen, können wir dies tun, indem wir die Mengen an Rot, Blau und Grün definieren, aus denen diese Farbe besteht. Diese Mengen werden in der Regel als ein einzelnes Byte gespeichert, also als eine Zahl zwischen 0 und 255.
+Wenn wir eine Farbe in einem Computerprogramm wiedergeben wollen, können wir dies tun, indem wir die Mengen an Rot, Blau und Grün definieren, aus denen diese Farbe besteht. Diese Mengen werden in der Regel als ein einzelnes Byte gespeichert, also als eine Zahl zwischen 0 und 255.
 
 Hier ist eine Tabelle mit einigen Farbwerten:
 
