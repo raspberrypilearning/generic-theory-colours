@@ -1,6 +1,6 @@
 ---
-title: Representerer farver med tal
-hero_image: images / banner.png
+title: Repræsentér farver med tal
+hero_image: images/banner.png
 description: Find ud af hvordan farver kan repræsenteres med tre tal
 original_url:
 theme: cc-prototype
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Representerer farver med tal
+    title: Repræsentér farver med tal
