@@ -6,23 +6,23 @@ Ljudje vidimo barvo zaradi posebnih celic v naših očeh. Te celice imenujemo *�
 
 ![Aditivno mešanje barv](images/additive-colour-mixing.png)
 
-Pri aditivnem mešanju barv se za izdelavo drugih barv uporabljajo tri barve (rdeča, zelena in modra). Na sliki zgoraj so trije reflektorji enake svetlosti, vsak za eno barvo. Če ni barve, je rezultat črn. Če so vse tri barve zmešane, je rezultat bele barve. Ko se rdeča in zelena združita, je rezultat rumen. Ko se rdeča in modra združita, je rezultat magenta. Ko se modro in zeleno združita, je rezultat cian. Še več barv je mogoče narediti s tem, da spremenite svetlost treh prvotnih barv.
+Pri aditivnem mešanju barv se za izdelavo drugih barv uporabljajo tri barve (rdeča, zelena in modra). Na sliki zgoraj so trije reflektorji enake svetlosti, vsak za eno barvo. Če ni barve, je rezultat črn. Če so vse tri barve zmešane, je rezultat bele barve. Ko se rdeča in zelena združita, je rezultat rumen. Ko se rdeča in modra združita, je rezultat magenta. Ko se modra in zelena združita, je rezultat cian. Še več barv je mogoče narediti s tem, da spremenite svetlost treh prvotnih barv.
 
-Računalniki shranjujejo vse kot 1s in 0s. Te 1s in 0s so pogosto organizirane v množice 8, imenovane **bajtov**.
+Računalniki shranjujejo vse kot 1s in 0s. Te 1s in 0s so pogosto organizirane v množice po 8, imenovane **bajti**.
 
-En sam bajt lahko predstavlja poljubno število od 0 do 255.
+En bajt lahko predstavlja poljubno število od 0 do 255.
 
-Ko želimo predstaviti barvo v računalniškem programu, lahko to naredimo tako, da določimo količine rdeče, modre in zelene barve, ki tvorijo to barvo. Ti zneski so običajno shranjeni kot en sam bajt in zato kot število med 0 in 255.
+Ko želimo predstaviti barvo v računalniškem programu, lahko to naredimo tako, da določimo količine rdeče, zelene in modre barve, ki tvorijo to barvo. Ti zneski so običajno shranjeni kot en sam bajt in zato kot število med 0 in 255.
 
 Tukaj je tabela z nekaj barvnimi vrednostmi:
 
-| rdeča | Zelena | Modra | Barva   |
+| Rdeča | Zelena | Modra | Barva   |
 | ----- | ------ | ----- | ------- |
-| 255   | 0      | 0     | rdeča   |
+| 255   | 0      | 0     | Rdeča   |
 | 0     | 255    | 0     | Zelena  |
 | 0     | 0      | 255   | Modra   |
 | 255   | 255    | 0     | Rumena  |
 | 255   | 0      | 255   | Magenta |
-| 0     | 255    | 255   | Cijan   |
+| 0     | 255    | 255   | Cian    |
 
-Najdete lepo [izbirnik barv za igro na w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
+Na w3school lahko najdete [izbirnik barv](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
