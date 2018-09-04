@@ -6,7 +6,7 @@ Menschen sehen Farben aufgrund spezieller Zellen in ihren Augen. Diese Zellen we
 
 ![Additive Farbmischung](images/additive-colour-mixing.png)
 
-Bei der additiven Farbmischung werden drei Farben (Rot, Grün und Blau) verwendet, um andere Farben zu erzeugen. Im obigen Bild sind drei Scheinwerfer gleicher Helligkeit, einer für jede Farbe. Wenn keine Farbe vorhanden ist, ist das Ergebnis schwarz. Wenn alle drei Farben gemischt werden, ist das Ergebnis weiß. Wenn Rot und Grün kombiniert werden, ist das Ergebnis Gelb. Wenn Rot und Blau kombiniert werden, ist das Ergebnis Magenta. Wenn Blau und Grün kombiniert werden, ist das Ergebnis Cyan. Es ist möglich, noch mehr Farben zu erzeugen, indem die Helligkeit der drei verwendeten Originalfarben geändert wird.
+Bei der additiven Farbmischung werden drei Farben (Rot, Grün und Blau) verwendet, um andere Farben zu erzeugen. Im obigen Bild leuchten drei Scheinwerfer gleicher Helligkeit, einer für jede Farbe. Wenn keine Farbe vorhanden ist, ist das Ergebnis schwarz. Wenn alle drei Farben gemischt werden, ist das Ergebnis weiß. Wenn Rot und Grün kombiniert werden, ist das Ergebnis Gelb. Wenn Rot und Blau kombiniert werden, ist das Ergebnis Magenta. Wenn Blau und Grün kombiniert werden, ist das Ergebnis Cyan. Es ist möglich, noch mehr Farben zu erzeugen, indem die Helligkeit der drei verwendeten Originalfarben geändert wird.
 
 Computer speichern alles in Form von Einsen und Nullen. Diese Einsen und Nullen werden oft in Achtergruppen organisiert, die **Bytes** genannt werden.
 
