@@ -1,28 +1,28 @@
-The colour of an object depends on the colour of the light that it reflects or emits. Light can have different wavelengths, and the colour of light depends on the wavelength it has. The colour of light according to its wavelength can be seen in the diagram below. You might recognise this as the colours of the rainbow.
+De kleur van een voorwerp is afhankelijk van de kleur van het licht dat het weerkaatst of uitstraalt. Licht kan verschillende golflengtes hebben en de kleur van licht is afhankelijk van de golflengte. De kleur van licht volgens zijn golflengte kan je terugvinden in de onderstaande tabel. Je zal dit misschien herkennen als de kleuren van de regenboog.
 
-![Visible spectrum](images/linear-visible-spectrum.png)
+![Zichtbaar spectrum](images/linear-visible-spectrum.png)
 
-Humans see colour because of special cells in our eyes. These cells are called *cones*. We have three types of cone cells, and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
+Mensen zien kleuren door speciale cellen in onze ogen. Deze cellen heten *kegels*. We hebben 3 soorten kegelcellen en elk soort onderscheidt rood, blauw of groen licht. Daarom zijn alle kleuren die we zien mengelingen van de kleuren rood, blauw en groen.
 
-![Additive colour mixing](images/additive-colour-mixing.png)
+![Mengen van bijkomende kleuren](images/additive-colour-mixing.png)
 
-In additive colour mixing, three colours (red, green, and blue) are used to make other colours. In the image above, there are three spotlights of equal brightness, one for each colour. In the absence of any colour the result is black. If all three colours are mixed, the result is white. When red and green combine, the result is yellow. When red and blue combine, the result is magenta. When blue and green combine, the result is cyan. It's possible to make even more colours than this by varying the brightness of the three original colours used.
+Bij het mengen van toegevoegde kleuren worden 3 kleuren (rood, groen en blauw) gebruikt om andere kleuren te maken. In de bovenstaande tekening zijn er 3 spots met dezelfde helderheid, één voor elke kleur. Als er geen enkele kleur aanwezig is, is het resultaat zwart. Als alle 3 de kleuren gemengd worden, is het resultaat wit. Als rood en groen gecombineerd worden, is het resultaat geel. Als rood en blauw gecombineerd worden, is het resultaat magenta. Als blauw en groen gecombineerd worden, is het resultaat cyaan. Het is mogelijk om nog meer kleuren te maken door de helderheid van de 3 origineel gebruikte kleuren te variëren.
 
-Computers store everything as 1s and 0s. These 1s and 0s are often organised into sets of 8, called **bytes**.
+Computers slaan alles op als enen en nullen. Deze enen en nullen worden vaak gerangschikt in reeksen van 8, genaamd **bytes**.
 
-A single byte can represent any number from 0 up to 255.
+Een enkele byte kan elk cijfer tussen 0 en 255 voorstellen.
 
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Wanneer we een kleur willen voorstellen in een computerprogramma, kunnen we dat doen door de hoeveelheden rood, blauw en groen die deze kleur bepalen te definiëren. Deze waardes worden meestal opgeslagen als een aparte byte en dus als een cijfer tussen 0 en 255.
 
-Here's a table showing some colour values:
+Hier zie je een tabel met enkele kleurwaardes:
 
-| Red | Green | Blue | Colour  |
-| --- | ----- | ---- | ------- |
-| 255 | 0     | 0    | Red     |
-| 0   | 255   | 0    | Green   |
-| 0   | 0     | 255  | Blue    |
-| 255 | 255   | 0    | Yellow  |
-| 255 | 0     | 255  | Magenta |
-| 0   | 255   | 255  | Cyan    |
+| Rood | Groen | Blauw | Kleur   |
+| ---- | ----- | ----- | ------- |
+| 255  | 0     | 0     | Rood    |
+| 0    | 255   | 0     | Groen   |
+| 0    | 0     | 255   | Blauw   |
+| 255  | 255   | 0     | Geel    |
+| 255  | 0     | 255   | Magenta |
+| 0    | 255   | 255   | Cyaan   |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Je kan een leuke [kleurkiezer om mee te spelen vinden op w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
