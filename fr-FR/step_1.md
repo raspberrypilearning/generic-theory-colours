@@ -1,4 +1,4 @@
-La couleur d'un objet dépend de la couleur de la lumière qu'il réfléchit ou émet. La lumière peut avoir différentes longueurs d'onde et la couleur de la lumière dépend de la longueur d'onde. La couleur de la lumière en fonction de sa longueur d'onde peut être vue dans le diagramme ci-dessous. Vous pourriez reconnaître cela comme les couleurs de l'arc-en-ciel.
+La couleur d'un objet dépend de la couleur de la lumière qu'il réfléchit ou émet. La lumière peut avoir différentes longueurs d'onde et la couleur de la lumière dépend de la longueur d'onde. La couleur de la lumière en fonction de sa longueur d'onde peut être vue dans le diagramme ci-dessous. Tu pourrais reconnaître cela comme les couleurs de l'arc-en-ciel.
 
 ![Spectre visible](images/linear-visible-spectrum.png)
 
@@ -25,4 +25,4 @@ Voici un tableau montrant certaines valeurs de couleur:
 | 255   | 0    | 255  | Magenta |
 | 0     | 255  | 255  | Cyan    |
 
-Vous pouvez trouver un bon [sélecteur de couleurs pour jouer avec au W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = « _ blank »}.
+Tu peux trouver un bon [sélecteur de couleurs pour jouer avec au W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = « _ blank »}.
