@@ -1,5 +1,5 @@
 ---
-title: Reprezentowanie kolorów za pomocą liczb
+title: Reprezentowanie kolorów za pomocą wartości liczbowych
 hero_image: images/banner.png
 description: Dowiedz się, jak kolory mogą być reprezentowane przez trzy liczby
 original_url:
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Reprezentowanie kolorów za pomocą liczb
+    title: Reprezentowanie kolorów za pomocą wartości liczbowych
