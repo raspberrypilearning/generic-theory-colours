@@ -6,7 +6,7 @@ Ljudje vidimo barvo zaradi posebnih celic v naših očeh. Te celice imenujemo *�
 
 ![Aditivno mešanje barv](images/additive-colour-mixing.png)
 
-Pri aditivnem mešanju barv se za izdelavo drugih barv uporabljajo tri barve (rdeča, zelena in modra). Na sliki zgoraj so trije reflektorji enake svetlosti, vsak za eno barvo. Če ni barve, je rezultat črn. Če so vse tri barve zmešane, je rezultat bele barve. Ko se rdeča in zelena združita, je rezultat rumen. Ko se rdeča in modra združita, je rezultat magenta. Ko se modra in zelena združita, je rezultat cian. Še več barv je mogoče narediti s tem, da spremenite svetlost treh prvotnih barv.
+Pri aditivnem mešanju barv se za izdelavo drugih barv uporabljajo tri barve (rdeča, zelena in modra). Na sliki zgoraj so trije reflektorji enake svetlosti, vsak za eno barvo. Če ni prisotne nobene od barv, oko zazna črno barvo. Če so vse tri barve zmešane, je rezultat bele barve. Ko se rdeča in zelena združita, je rezultat rumen. Ko se rdeča in modra združita, je rezultat magenta. Ko se modra in zelena združita, je rezultat cian. Še več barv je mogoče narediti s tem, da spremenite svetlost treh prvotnih barv.
 
 Računalniki shranjujejo vse kot 1s in 0s. Te 1s in 0s so pogosto organizirane v množice po 8, imenovane **bajti**.
 
