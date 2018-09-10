@@ -2,9 +2,9 @@ Barva predmeta je odvisna od barve svetlobe, ki jo lahko vpija ali odbija. Svetl
 
 ![Vidni spekter](images/linear-visible-spectrum.png)
 
-Ljudje vidimo barvo zaradi posebnih celic v naših očeh. Te celice imenujemo *čepnice*. Obstajajo tri vrste čepnic. Vsaka zazna rdečo, modro ali zeleno svetlobo. Zato so vse barve, ki jih vidimo, le mešanice rdeče, modre in zelene.
+Ljudje vidimo barvo zaradi posebnih celic v naših očeh. Te celice imenujemo *čepnice*. Obstajajo tri vrste čepnic. Vsaka zazna eno od barv: rdečo, modro ali zeleno. Zato so vse barve, ki jih vidimo, le mešanice rdeče, modre in zelene.
 
-![Aditivno mešanje barv](images/additive-colour-mixing.png)
+![Mešanje barv z dodajanjem](images/additive-colour-mixing.png)
 
 Pri aditivnem mešanju barv se za izdelavo drugih barv uporabljajo tri barve (rdeča, zelena in modra). Na sliki zgoraj so trije reflektorji enake svetlosti, vsak za eno barvo. Če ni prisotne nobene od barv, oko zazna črno barvo. Če so vse tri barve zmešane, je rezultat bele barve. Če zmešamo rdečo in zeleno, dobimo rumeno barvo. Če zmešamo rdečo in modro, dobimo vijolično barvo. Ko se modra in zelena združita, je rezultat cian. Še več barv je mogoče zmešati tako, da spremenite jakost treh osnovnih barv.
 
@@ -12,7 +12,7 @@ Računalniki shranjujejo vse kot ničle (0) in enice (1). Te 1s in 0s so pogosto
 
 En bajt lahko predstavlja poljubno število od 0 do 255.
 
-Ko želimo predstaviti barvo v računalniškem programu, lahko to naredimo tako, da določimo količine rdeče, zelene in modre barve, ki tvorijo to barvo. Ti zneski so običajno shranjeni kot en sam bajt in zato kot število med 0 in 255.
+Ko želimo predstaviti barvo v računalniškem programu, lahko to naredimo tako, da določimo količine rdeče, zelene in modre barve, ki tvorijo to barvo. Te veličine so običajno shranjene kot en sam bajt, z vrednostjo med 0 in 255.
 
 Tukaj je tabela z nekaj barvnimi vrednostmi:
 
