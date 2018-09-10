@@ -1,12 +1,12 @@
-Barva objektu závisí na barvě světla, které odráží nebo vyzařuje. Světlo může mít různé vlnové délky a barva světla závisí na vlnové délce, kterou má. Barva světla podle jeho vlnové délky je vidět na obrázku níže. Můžete to považovat za barvu duhy.
+Barva objektu závisí na barvě světla, které odráží nebo vyzařuje. Světlo může mít různé vlnové délky a barva světla závisí na vlnové délce, kterou má. Barva světla podle jeho vlnové délky je vidět na obrázku níže. Je to stejné jako s barvami duhy.
 
 ![Viditelné spektrum](images/linear-visible-spectrum.png)
 
-Lidé vidí barvu kvůli speciálním buňkám v našich očích. Tyto buňky se nazývají *kužele*. Máme tři typy kuželových buněk a každý typ detekuje červené, modré nebo zelené světlo. Proto jsou všechny barvy, které vidíme, jen směsí barev červená, modrá a zelená.
+Lidé vidí barvu díky speciálním buňkám v našich očích. Tyto buňky se nazývají *čípky*. Máme tři typy barvocitlivých buněk a každý typ detekuje buď červené, modré nebo zelené světlo. Všechny barvy, které vidíme, jsou tak směsí tvořenou barvami červená, modrá a zelená.
 
 ![Míchání barvy aditiva](images/additive-colour-mixing.png)
 
-Při přidávání barevných směsí se používají tři barvy (červená, zelená a modrá) k vytvoření dalších barev. Ve výše uvedeném obrázku existují tři reflektory se stejným jasem, jeden pro každou barvu. Při absenci žádné barvy je výsledek černý. Pokud jsou všechny tři barvy smíšené, výsledek je bílý. Při kombinaci červené a zelené barvy je výsledek žlutý. Při kombinaci červené a modré barvy je výsledek purpurový. Při kombinování modré a zelené je výsledek azurová. Je možné vytvořit ještě více barev než tím, že změníte jas použitých tří původních barev.
+Při aditivním míchání barev se k vytvoření dalších barev používají tři barvy (červená, zelená a modrá). V obrázku výše vidíte tři reflektory, které svítí stejným jasem, jeden pro každou barvu. Při absenci barev je výsledek černý. Pokud smícháme všechny tři barvy, je výsledek bílý. Při kombinaci červené a zelené barvy je výsledek žlutý. Při kombinaci červené a modré barvy je výsledek purpurový. Při kombinování modré a zelené je výsledek azurová. Je možné vytvořit ještě více barev než tím, že změníte jas použitých tří původních barev.
 
 Počítače ukládají vše jako 1s a 0s. Tyto 1s a 0s jsou často uspořádány do sad 8, nazývaných **bajtů**.
 
