@@ -8,7 +8,7 @@ Az emberek színesen látnak, mivel speciális sejtek vannak a szemünkben. Ezek
 
 Az additív (összeadó) színkeverésnél három színt (vörös, zöld és kék) használnak más színek létrehozására. A fenti képen három egyenlő fényerejű fénysugárzó látható, mindhárom színből egy. Szín hiányában az eredmény fekete. Ha mindhárom szín keveredik, az eredmény fehér. Amikor a vörös és a zöld szín kombinálódik, az eredmény sárga. Amikor vörös és kék kombinálódik, az eredmény bíbor. Amikor kék és zöld kombinálódik, az eredmény cián. Ennél még több színt lehet keverni, ha változtatjuk az eredeti három szín fényerejét.
 
-A számítógépek mindent 1-esek és 0-k formájában tárolnak. Ezeket az 1-eseket és 0-kat gyakran 8-as csoportokba rendezzük, amelyeket **bájt**nak nevezünk.
+A számítógépek mindent 1-esek és 0-k formájában tárolnak. Ezeket az 1-eseket és 0-kat gyakran 8-as csoportokba rendezzük, amelyeket **bájt** nak nevezünk.
 
 Egy bájt bármelyik számot ábrázolhatja 0-tól 255-ig.
 
