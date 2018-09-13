@@ -2,11 +2,11 @@ De kleur van een voorwerp is afhankelijk van de kleur van het licht dat het weer
 
 ![Zichtbaar spectrum](images/linear-visible-spectrum.png)
 
-Mensen zien kleuren door speciale cellen in onze ogen. Deze cellen heten *kegels*. We hebben 3 soorten kegelcellen en elk soort onderscheidt rood, blauw of groen licht. Daarom zijn alle kleuren die we zien mengelingen van de kleuren rood, blauw en groen.
+Mensen zien kleuren door speciale cellen in onze ogen. Deze cellen heten *kegels*. We hebben 3 soorten kegelcellen en elke soort onderscheidt rood, blauw of groen licht. Daarom zijn alle kleuren die we zien mengelingen van de kleuren rood, blauw en groen.
 
-![Mengen van bijkomende kleuren](images/additive-colour-mixing.png)
+![Mengen van additieve kleuren](images/additive-colour-mixing.png)
 
-Bij het mengen van toegevoegde kleuren worden 3 kleuren (rood, groen en blauw) gebruikt om andere kleuren te maken. In de bovenstaande tekening zijn er 3 spots met dezelfde helderheid, één voor elke kleur. Als er geen enkele kleur aanwezig is, is het resultaat zwart. Als alle 3 de kleuren gemengd worden, is het resultaat wit. Als rood en groen gecombineerd worden, is het resultaat geel. Als rood en blauw gecombineerd worden, is het resultaat magenta. Als blauw en groen gecombineerd worden, is het resultaat cyaan. Het is mogelijk om nog meer kleuren te maken door de helderheid van de 3 origineel gebruikte kleuren te variëren.
+Bij het mengen van additieve kleuren worden 3 kleuren (rood, groen en blauw) gebruikt om andere kleuren te maken. In de bovenstaande tekening zijn er 3 spots met dezelfde helderheid, één voor elke kleur. Als er geen enkele kleur aanwezig is, is het resultaat zwart. Als alle 3 de kleuren gemengd worden, is het resultaat wit. Als rood en groen gecombineerd worden, is het resultaat geel. Als rood en blauw gecombineerd worden, is het resultaat magenta. Als blauw en groen gecombineerd worden, is het resultaat cyaan. Het is mogelijk om nog meer kleuren te maken door de helderheid van de 3 origineel gebruikte kleuren te variëren.
 
 Computers slaan alles op als enen en nullen. Deze enen en nullen worden vaak gerangschikt in reeksen van 8, genaamd **bytes**.
 
