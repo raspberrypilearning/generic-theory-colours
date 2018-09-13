@@ -1,18 +1,18 @@
-Fargen på et objekt avhenger av fargen på lyset som det reflekterer eller sender ut. Lyset kan ha forskjellige bølgelengder, og lysets farge avhenger av bølgelengden det har. Lysets farge i henhold til dets bølgelengde kan ses i diagrammet nedenfor. Du kan kanskje gjenkjenne dette som regnbuens farger.
+Fargen på et objekt avhenger av fargen på lyset som det reflekterer eller sender ut. Lys kan ha ulike bølgelengder, og lysets farge vil avhenge av bølgelengen lyset har. Lysets farge i henhold til dets bølgelengde kan ses i diagrammet nedenfor. Du gjenkjenner kanskje dette som regnbuens farger.
 
 ![Synlig spektrum](images/linear-visible-spectrum.png)
 
-Mennesker ser farge på grunn av spesielle celler i våre øyne. Disse cellene kalles *tapper*. Vi har tre typer tapper, og hver type oppfatter enten rødt, blått eller grønt lys. Derfor er alle fargene vi ser, bare blandinger av fargene rød, blå og grønn.
+Mennesker kan se farge på grunn av spesielle celler i øynene våre. Disse cellene kalles *tapper*. Vi har tre typer tapper, og hver type oppfatter enten rødt, blått eller grønt lys. Derfor vil alle fargene vi ser, være en blanding av fargene rød, blå og grønn.
 
 ![Additiv farveblanding](images/additive-colour-mixing.png)
 
-I additiv fargeblanding brukes tre farger (rød, grønn og blå) til å lage andre farger. I bildet ovenfor er det tre spotlighter med lik lysstyrke, en for hver farge. I fravær av farge er resultatet svart. Hvis alle tre farger er blandet, er resultatet hvit. Når rød og grønn kombineres, blir resultatet gult. Når rød og blå kombineres, er resultatet magenta. Når blå og grønn kombineres, er resultatet cyan. Det er mulig å lage enda flere farger enn dette ved å variere lysstyrken til de tre originale fargene som brukes.
+I additiv fargeblanding brukes tre farger (rød, grønn og blå) til å lage andre farger. I bildet ovenfor er det tre spotlighter med lik lysstyrke, en for hver farge. I fravær av farge vil resultatet være svart. Hvis alle tre farger blandes, blir resultatet fargen hvit. Når rød og grønn kombineres, blir resultatet gult. Når rød og blå kombineres, er resultatet magenta. Når blå og grønn kombineres, er resultatet cyan. Det er mulig å lage enda flere farger enn dette ved å variere lysstyrken til de tre originale fargene.
 
 Datamaskiner lagrer alt som 1'ere og 0'er. Disse 1'erne og 0'ene er ofte organisert i sett med 8, kalt **bytes**.
 
-En enkelt byte kan representere et tall fra 0 til 255.
+En enkel byte kan representere et tall fra 0 til 255.
 
-Når vi ønsker å representere en farge i et dataprogram, kan vi gjøre dette ved å definere mengden rød, blå og grønn som utgjør fargen. Disse beløpene lagres vanligvis som en enkelt byte og derfor som et tall mellom 0 og 255.
+Når vi ønsker å representere en farge i et dataprogram, kan vi gjøre dette ved å definere mengden rød, blå og grønn som utgjør den ønskelige fargen. Disse mengdene lagres vanligvis som en enkel byte og derfor som et tall mellom 0 og 255.
 
 Her er en tabell som viser noen fargeverdier:
 
