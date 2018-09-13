@@ -4,11 +4,11 @@ Fargen på et objekt avhenger av fargen på lyset som det reflekterer eller send
 
 Mennesker kan se farge på grunn av spesielle celler i øynene våre. Disse cellene kalles *tapper*. Vi har tre typer tapper, og hver type oppfatter enten rødt, blått eller grønt lys. Derfor vil alle fargene vi ser, være en blanding av fargene rød, blå og grønn.
 
-![Additiv farveblanding](images/additive-colour-mixing.png)
+![Additiv fargeblanding](images/additive-colour-mixing.png)
 
-I additiv fargeblanding brukes tre farger (rød, grønn og blå) til å lage andre farger. I bildet ovenfor er det tre spotlighter med lik lysstyrke, en for hver farge. I fravær av farge vil resultatet være svart. Hvis alle tre farger blandes, blir resultatet fargen hvit. Når rød og grønn kombineres, blir resultatet gult. Når rød og blå kombineres, er resultatet magenta. Når blå og grønn kombineres, er resultatet cyan. Det er mulig å lage enda flere farger enn dette ved å variere lysstyrken til de tre originale fargene.
+I additiv fargeblanding brukes tre farger (rød, grønn og blå) til å lage andre farger. I bildet ovenfor er det tre spotlighter med like lysstyrke, én for hver farge. I fravær av farge vil resultatet være svart. Hvis alle tre farger blandes, blir resultatet fargen hvit. Når rød og grønn kombineres, blir resultatet gult. Når rød og blå kombineres, er resultatet magenta. Når blå og grønn kombineres, er resultatet cyan. Det er mulig å lage enda flere farger enn dette ved å variere lysstyrken til de tre originale fargene.
 
-Datamaskiner lagrer alt som 1'ere og 0'er. Disse 1'erne og 0'ene er ofte organisert i sett med 8, kalt **bytes**.
+Datamaskiner lagrer alt som 1'ere og 0'er. Disse 1'erne og 0'ene er ofte organiserte i sett med 8 som kalles **bytes**.
 
 En enkel byte kan representere et tall fra 0 til 255.
 
