@@ -1,9 +1,9 @@
 ---
 title: Värien esittäminen numeroilla
-hero_image: kuvat/banner.png
+hero_image: images/banner.png
 description: Opi kuinka värejä voidaan esittää kolmella numerolla
 original_url:
-theme: cc-prototyyppi
+theme: cc-prototype
 duration: 1
 ingredient: true
 listed: false
