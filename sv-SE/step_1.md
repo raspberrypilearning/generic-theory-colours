@@ -25,4 +25,4 @@ Här är ett bord som visar några färgvärden:
 | 255 | 0    | 255 | Magenta |
 | 0   | 255  | 255 | cyan    |
 
-Du kan hitta en fin [färgplockare att spela med på w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
+Du kan hitta en fin [färgplockare att leka med på w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
