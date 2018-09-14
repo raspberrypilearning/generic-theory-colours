@@ -8,7 +8,7 @@ Människor ser färg på grund av speciella celler i våra ögon. Dessa celler k
 
 I additiv färgblandning används tre färger (röd, grön och blå) för att göra andra färger. I bilden ovan finns tre strålkastare med samma ljusstyrka, en för varje färg. I avsaknad av någon färg är resultatet svart. Om alla tre färgerna blandas är resultatet vit. När rött och grönt kombineras är resultatet gult. När rött och blått kombineras är resultatet magenta. När blå och grön kombineras är resultatet cyan. Det är möjligt att göra ännu fler färger än detta genom att ändra ljusstyrkan hos de tre ursprungliga färgerna som används.
 
-Datorer lagrar allt som 1s och 0s. Dessa 1s och 0s organiseras ofta i uppsättningar av 8, som kallas **byte**.
+Datorer lagrar allt som ettor och nollor. Dessa ettor och nollor organiseras ofta i uppsättningar av 8, som kallas **byte**.
 
 En enda byte kan representera ett tal från 0 upp till 255.
 
