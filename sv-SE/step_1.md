@@ -1,8 +1,8 @@
-Färgen på ett objekt beror på ljusets färg som den reflekterar eller avger. Ljus kan ha olika våglängder, och ljusets färg beror på våglängden den har. Lysets färg enligt dess våglängd kan ses i diagrammet nedan. Du kanske känner igen det som regnbågens färger.
+Färgen på ett objekt beror på ljusets färg som den reflekterar eller avger. Ljus kan ha olika våglängder, och ljusets färg beror på våglängden den har. Lysets färg enligt dess våglängd kan ses i diagrammet nedan. Du kanske känner igen de som regnbågens färger.
 
 ![Synligt spektrum](images/linear-visible-spectrum.png)
 
-Människor ser färg på grund av speciella celler i våra ögon. Dessa celler kallas *koner*. Vi har tre typer av konceller, och varje typ upptäcker antingen rött, blått eller grönt ljus. Därför är alla färger som vi ser bara blandningar av färgerna röda, blåa och gröna.
+Människor ser färg på grund av speciella celler i våra ögon. Dessa celler kallas för *koner*. Vi har tre typer av konceller, och varje typ upptäcker antingen rött, blått eller grönt ljus. Därför är alla färger som vi ser bara blandningar av färgerna röd, blå och grön.
 
 ![Additiv färgblandning](images/additive-colour-mixing.png)
 
@@ -14,7 +14,7 @@ En enda byte kan representera ett tal från 0 upp till 255.
 
 När vi vill representera en färg i ett datorprogram kan vi göra det genom att definiera mängderna röda, blåa och gröna som utgör den färgen. Dessa belopp lagras vanligtvis som en enda byte och därmed som ett tal mellan 0 och 255.
 
-Här är ett bord som visar några färgvärden:
+Här är ett tabell som visar några färgvärden:
 
 | Röd | Grön | Blå | Färg    |
 | --- | ---- | --- | ------- |
