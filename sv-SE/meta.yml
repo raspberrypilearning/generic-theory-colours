@@ -1,7 +1,7 @@
 ---
 title: Representerar färger med siffror
-hero_image: images/banner.png
-description: Ta reda på hur färger kan representeras av tre nummer
+hero_image: images / banner.png
+description: Ta reda på hur färger kan betecknas av tre nummer
 original_url:
 theme: cc-prototyp
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Representerar färger med siffror
+    title: Beteckna färger med siffror
