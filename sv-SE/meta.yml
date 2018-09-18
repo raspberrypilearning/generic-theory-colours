@@ -1,7 +1,7 @@
 ---
-title: Beteckna färger med siffror
+title: Beskriva färger med siffror
 hero_image: images/banner.png
-description: Ta reda på hur färger kan betecknas av tre nummer
+description: Ta reda på hur färger kan beskrivas med hjälp av tre siffror
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Beteckna färger med siffror
+    title: Beskriva färger med siffror
