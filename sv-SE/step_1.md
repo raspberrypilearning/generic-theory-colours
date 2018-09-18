@@ -6,15 +6,15 @@ Människor skiljer på färger tack vare speciella celler i våra ögon. Dessa c
 
 ![Additiv färgblandning](images/additive-colour-mixing.png)
 
-I additiv färgblandning används tre färger (röd, grön och blå) för att göra andra färger. I bilden ovan kan man se tre strålkastarljus med samma ljusstyrka, ett för varje färg. Där det inte finns någon färg, bli resultatet svart. Om alla tre färgerna blandas är resultatet vit. Man få gul färg genom att blanda blått och grönt. För att få magenta ska man kombinera rött och blått. När blått och grönt kombineras blir resultatet cyan. Det är möjligt att göra ännu fler färger än detta genom att ändra ljusstyrkan hos de tre ursprungliga färgerna som används.
+I additiv färgblandning används tre färger (röd, grön och blå) för att göra andra färger. I bilden ovan kan man se tre strålkastarljus med samma ljusstyrka, ett för varje färg. Där det inte finns någon färg, bli resultatet svart. Om alla tre färgerna blandas är resultatet vit. Man få gul färg genom att blanda blått och grönt. För att få magenta ska man kombinera rött och blått. När blått och grönt kombineras blir resultatet cyan. Det är möjligt att få ännu fler färger genom att ändra ljusstyrkan på de tre ursprungliga färgerna som används.
 
-Datorer lagrar allt som ettor och nollor. Dessa ettor och nollor organiseras ofta i uppsättningar av 8, som kallas **byte**.
+Datorer lagrar allt som ettor och nollor. Dessa ettor och nollor organiseras ofta i uppsättningar av 8, som kallas för **byte**.
 
-En enda byte kan representera ett tal från 0 upp till 255.
+En byte kan representera ett tal från 0 upp till 255.
 
-När vi vill betecknar en färg i ett datorprogram kan vi göra det genom att definiera mängderna av rött, blått och grönt som utgör denna färgen. Dessa belopp lagras vanligtvis som en enda byte och därmed som ett tal mellan 0 och 255.
+När vi vill beskriva färg i ett datorprogram kan vi göra det genom att uppge mängderna av rött, blått och grönt som utgör denna färgen. Dessa sparas vanligtvis som en enda byte och därmed som ett tal mellan 0 och 255.
 
-Här är ett tabell som visar några färgvärden:
+Här är ett tabell som visar några värden för olika färger:
 
 | Röd | Grön | Blå | Färg    |
 | --- | ---- | --- | ------- |
@@ -23,6 +23,6 @@ Här är ett tabell som visar några färgvärden:
 | 0   | 0    | 255 | Blå     |
 | 255 | 255  | 0   | Gul     |
 | 255 | 0    | 255 | Magenta |
-| 0   | 255  | 255 | cyan    |
+| 0   | 255  | 255 | Cyan    |
 
 Du kan hitta en fin [färgplockare att leka med på w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
