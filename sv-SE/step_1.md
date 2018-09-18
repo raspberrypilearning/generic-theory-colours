@@ -1,4 +1,4 @@
-Färgen på ett objekt beror på ljusets färg som den reflekterar eller avger. Ljus kan ha olika våglängder, och ljusets färg beror på våglängden den har. Lysets färg enligt dess våglängd kan ses i diagrammet nedan. Du kanske känner igen de som regnbågens färger.
+Färgen på ett objekt beror på ljusets färg som den reflekterar eller avger. Ljuset kan ha olika våglängder och ljusets färg beror på ljusets våglängd. Ljusets färg enligt dess våglängd illustreras i diagrammet nedan. Du kanske känner igen de som regnbågens färger.
 
 ![Synligt spektrum](images/linear-visible-spectrum.png)
 
