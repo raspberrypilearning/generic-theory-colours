@@ -1,8 +1,8 @@
-Färgen på ett objekt beror på ljusets färg som den reflekterar eller avger. Ljuset kan ha olika våglängder och ljusets färg beror på ljusets våglängd. Ljusets färg enligt dess våglängd illustreras i diagrammet nedan. Du kanske känner igen de som regnbågens färger.
+Färgen på ett objekt beror på ljusets färg som den reflekterar eller avger. Ljuset kan ha olika våglängder och ljusets färg beror på ljusets våglängd. Ljusets färg enligt dess våglängd kan man se på diagrammet nedan. Du kanske känner igen regnbågens färger på bilden.
 
 ![Synligt spektrum](images/linear-visible-spectrum.png)
 
-Människor ser färg på grund av speciella celler i våra ögon. Dessa celler kallas för *koner*. Vi har tre typer av konceller, och varje typ upptäcker antingen rött, blått eller grönt ljus. Därför är alla färger som vi ser är bara blandning av färgerna röd, blå och grön.
+Människor skiljer på färger tack vare speciella celler i våra ögon. Dessa celler kallas för *koner*. Vi har tre typer av konceller, och varje typ upptäcker antingen rött, blått eller grönt ljus. Därför är alla färger som vi ser är bara blandning av färgerna röd, blå och grön.
 
 ![Additiv färgblandning](images/additive-colour-mixing.png)
 
