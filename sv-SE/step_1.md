@@ -2,7 +2,7 @@ Färgen på ett objekt beror på ljusets färg som den reflekterar eller avger. 
 
 ![Synligt spektrum](images/linear-visible-spectrum.png)
 
-Människor skiljer på färger tack vare speciella celler i våra ögon. Dessa celler kallas för *tappar*. Vi har tre typer av tappar och varje typ känner igen rött, blått eller grönt ljus. Därför är alla färger som vi ser är bara blandningar av färgerna röd, blå och grön.
+Människor skiljer på färger tack vare speciella celler i våra ögon. Dessa celler kallas för *tappar*. Vi har tre typer av tappar och varje typ känner igen rött, blått eller grönt ljus. Alltså, alla olika färger som vi ser är bara blandningar av färgerna röd, blå och grön.
 
 ![Additiv färgblandning](images/additive-colour-mixing.png)
 
