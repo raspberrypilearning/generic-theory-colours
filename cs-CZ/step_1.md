@@ -2,7 +2,7 @@ Barva objektu závisí na barvě světla, které odráží nebo vyzařuje. Svět
 
 ![Viditelné spektrum](images/linear-visible-spectrum.png)
 
-Lidé vidí barvu díky speciálním buňkám v našich očích. Tyto buňky se nazývají *čípky*. Máme tři typy barvocitlivých buněk a každý typ detekuje buď červené, modré nebo zelené světlo. Všechny barvy, které vidíme, jsou tak směsí tvořenou barvami červená, modrá a zelená.
+Vidíme barvu díky speciálním buňkám v našich očích. Tyto buňky se nazývají *čípky*. Máme tři typy barvocitlivých buněk a každý typ detekuje buď červené, modré nebo zelené světlo. Všechny barvy, které vidíme, jsou tak směsí tvořenou barvami červená, modrá a zelená.
 
 ![Aditivní míchání barev](images/additive-colour-mixing.png)
 
