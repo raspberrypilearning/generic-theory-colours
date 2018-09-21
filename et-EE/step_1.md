@@ -6,13 +6,13 @@ Inimesed näevad värve tänu erilistele rakkudele meie silmades. Neid rakke nim
 
 ![Aditiivne värvide segamine](images/additive-colour-mixing.png)
 
-Aditiivse värvide segamise puhul kasutatakse teiste värvide saamiseks kolme värvi (punane, roheline ja sinine). Ülaltoodud pildil on kolm võrdse heledusega prožektorit, üks iga värvi kohta. Kui värvi üldse pole, on tulemuseks must. Kui kõik kolm värvi on segatud, on tulemuseks valge. Punase ja rohelise kombineerimisel on tulemuseks kollane. Punase ja sinise kombineerimisel on tulemuseks purpur. Kui sinine ja roheline kombineerida, on tulemuseks tsüaansinine. Kasutatud kolme algvärvi heledust muutes on võimalik saada veel rohkem värve kui need.
+Aditiivse värvide segamise puhul kasutatakse teiste värvide saamiseks kolme värvi (punane, roheline ja sinine). Ülaltoodud pildil on kolm võrdse heledusega prožektorit, üks iga värvuse kohta. Kui värvus üldse puudub, on tulemuseks must. Kui kõik kolm värvust on kokku segatud, on tulemuseks valge. Punase ja rohelise kombineerimisel on tulemuseks kollane. Punase ja sinise kombineerimisel on tulemuseks purpur. Kui sinine ja roheline kombineerida, on tulemuseks tsüaansinine. Kasutatud kolme algvärvuse heledust muutes on võimalik saada veel rohkem värvusi kui need.
 
 Arvutid salvestavad kõike arvude 1 ja 0 abil. Need 1-d ja 0-d on tihti korrastatud 8-liikmelistesse hulkadesse, mida nimetatakse **bytes**.
 
 Üks byte võib esindada mis tahes arvu vahemikus 0 kuni 255.
 
-Kui me tahame arvutiprogrammis mingit värvi kujutada, saame me seda teha, määratledes selle värvi moodustavate punase, sinise ja rohelise värvuse hulga. Neid koguseid salvestatakse tavaliselt ühe byte ja seega numbrina vahemikus 0 kuni 255.
+Kui me tahame arvutiprogrammis mingit värvust kujutada, saame me seda teha, määratledes selle värvuse moodustavate punase, sinise ja rohelise värvuse hulga. Neid koguseid salvestatakse tavaliselt ühe byte ja seega numbrina vahemikus 0 kuni 255.
 
 Siin on tabel, kus on näha mõningad värviväärtused:
 
