@@ -4,9 +4,9 @@ Objekti värv sõltub selle valguse värvusest, mida see peegeldab või kiirgab.
 
 Inimesed näevad värve tänu erilistele rakkudele meie silmades. Neid rakke nimetatakse *cones*. Meil on kolme tüüpi koonusrakud ja iga tüüp tuvastab kas punase, sinise või rohelise valguse. Seepärast on kõik värvid, mida me näeme, kõigest punase, sinise ja rohelise värvi segu.
 
-![Lisandite värvide segamine](images/additive-colour-mixing.png)
+![Aditiivne värvide segamine](images/additive-colour-mixing.png)
 
-Aditiivse värvi segamisel kasutatakse teisi värve valmistamiseks kolme värvi (punane, roheline ja sinine). Ülaltoodud pildil on kolm võrdväärse heledusega täppi, üks iga värvi kohta. Kui värv puudub, on tulemuseks must. Kui kõik kolm värvi on segatud, on tulemus valge. Kui punane ja roheline kombineeritakse, on tulemus kollased. Kui punane ja sinine ühendada, on tulemuseks magenta. Kui sinine ja roheline kombineerida, on tulemuseks sinine. Võimalik on teha veelgi rohkem värve kui see, kui muudate kasutatud kolme originaalse värvuse heledust.
+Aditiivse värvide segamise puhul kasutatakse teiste värvide saamiseks kolme värvi (punane, roheline ja sinine). Ülaltoodud pildil on kolm võrdse heledusega prožektorit, üks iga värvi kohta. Kui värvi üldse pole, on tulemuseks must. Kui kõik kolm värvi on segatud, on tulemuseks valge. Punase ja rohelise kombineerimisel on tulemuseks kollane. Kui punane ja sinine ühendada, on tulemuseks magenta. Kui sinine ja roheline kombineerida, on tulemuseks sinine. Võimalik on teha veelgi rohkem värve kui see, kui muudate kasutatud kolme originaalse värvuse heledust.
 
 Arvutid hoiavad kõike 1s ja 0s. Need 1s ja 0s on tihti korrastatud kogumitesse 8, mida nimetatakse **baitiks**.
 
