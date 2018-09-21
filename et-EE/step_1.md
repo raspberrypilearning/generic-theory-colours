@@ -2,7 +2,7 @@ Objekti värv sõltub selle valguse värvusest, mida see peegeldab või kiirgab.
 
 ![Nähtava valguse spekter](images/linear-visible-spectrum.png)
 
-Inimesed näevad värvi eriliste rakkude tõttu meie silmis. Neid rakke nimetatakse *koonuseks*. Meil on kolm koonusjoont ja iga tüüp tuvastab kas punase, sinise või rohelise valguse. Seepärast on kõik värvid, mida me näeme, lihtsalt värvide segu, punane, sinine ja roheline.
+Inimesed näevad värve tänu erilistele rakkudele meie silmades. Neid rakke nimetatakse *cones*. Meil on kolme tüüpi koonusrakud ja iga tüüp tuvastab kas punase, sinise või rohelise valguse. Seepärast on kõik värvid, mida me näeme, kõigest punase, sinise ja rohelise värvi segu.
 
 ![Lisandite värvide segamine](images/additive-colour-mixing.png)
 
