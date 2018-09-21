@@ -6,7 +6,7 @@ Vidíme barvu díky speciálním buňkám v našich očích. Tyto buňky se naz�
 
 ![Aditivní míchání barev](images/additive-colour-mixing.png)
 
-Při aditivním míchání barev se k vytvoření dalších barev používají tři barvy (červená, zelená a modrá). V obrázku výše vidíte tři reflektory, které svítí stejným jasem, jeden pro každou barvu. Při absenci barev je výsledek černý. Pokud smícháme všechny tři barvy, je výsledek bílý. Při kombinaci červené a zelené barvy je výsledek žlutý. Při kombinaci červené a modré barvy je výsledek purpurový. Při kombinování modré a zelené je výsledek azurový. Když zbudeš měnit i jas tří původních barev, je možné vytvořit daleko více možností.
+Při aditivním míchání barev se k vytvoření dalších barev používají tři barvy (červená, zelená a modrá). V obrázku výše vidíte tři reflektory, které svítí stejným jasem, jeden pro každou barvu. Při absenci barev je výsledek černý. Pokud smícháme všechny tři barvy, je výsledek bílý. Při kombinaci červené a zelené barvy je výsledek žlutý. Při kombinaci červené a modré barvy je výsledek purpurový. Při kombinování modré a zelené je výsledek azurový. Když budeš měnit i jas tří původních barev, je možné vytvořit daleko více možností.
 
 Počítače ukládají vše jako jedničky (1) a nuly (0). Tyto 1 a 0 jsou často uspořádány do sad po 8, které se nazývají **bajty**.
 
