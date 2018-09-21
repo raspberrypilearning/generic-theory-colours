@@ -1,9 +1,9 @@
 ---
-title: Reprezentace barev s čísly
+title: Reprezentace barev čísly
 hero_image: images/banner.png
 description: Zjistěte, jak mohou být barvy reprezentovány třemi čísly
 original_url:
-theme: cc-prototyp
+theme: cc-prototype
 duration: 1
 ingredient: true
 listed: false
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Reprezentace barev s čísly
+    title: Reprezentace barev čísly
