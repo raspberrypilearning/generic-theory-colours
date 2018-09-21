@@ -1,6 +1,6 @@
-Objekti värv sõltub selle valguse värvusest, mida see peegeldab või kiirgab. Valgus võib olla erinev lainepikkus ja valguse värvus sõltub selle lainepikkust. Valgusvärvi vastavalt oma lainepikkusele on näha alljärgnevas skeemis. Võib tunda seda vikerkaare värvana.
+Objekti värv sõltub selle valguse värvusest, mida see peegeldab või kiirgab. Valgusel võivad olla erinevad lainepikkused ja valguse värvus sõltub selle lainepikkusest. Lainepikkusele vastavat valguse värvust võib näha alljärgneval skeemil. Selles võib ära tunda vikerkaarevärvid.
 
-![Nähtav spekter](images/linear-visible-spectrum.png)
+![Nähtava valguse spekter](images/linear-visible-spectrum.png)
 
 Inimesed näevad värvi eriliste rakkude tõttu meie silmis. Neid rakke nimetatakse *koonuseks*. Meil on kolm koonusjoont ja iga tüüp tuvastab kas punase, sinise või rohelise valguse. Seepärast on kõik värvid, mida me näeme, lihtsalt värvide segu, punane, sinine ja roheline.
 
