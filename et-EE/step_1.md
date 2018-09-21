@@ -6,9 +6,9 @@ Inimesed näevad värve tänu erilistele rakkudele meie silmades. Neid rakke nim
 
 ![Aditiivne värvide segamine](images/additive-colour-mixing.png)
 
-Aditiivse värvide segamise puhul kasutatakse teiste värvide saamiseks kolme värvi (punane, roheline ja sinine). Ülaltoodud pildil on kolm võrdse heledusega prožektorit, üks iga värvi kohta. Kui värvi üldse pole, on tulemuseks must. Kui kõik kolm värvi on segatud, on tulemuseks valge. Punase ja rohelise kombineerimisel on tulemuseks kollane. Kui punane ja sinine ühendada, on tulemuseks magenta. Kui sinine ja roheline kombineerida, on tulemuseks sinine. Võimalik on teha veelgi rohkem värve kui see, kui muudate kasutatud kolme originaalse värvuse heledust.
+Aditiivse värvide segamise puhul kasutatakse teiste värvide saamiseks kolme värvi (punane, roheline ja sinine). Ülaltoodud pildil on kolm võrdse heledusega prožektorit, üks iga värvi kohta. Kui värvi üldse pole, on tulemuseks must. Kui kõik kolm värvi on segatud, on tulemuseks valge. Punase ja rohelise kombineerimisel on tulemuseks kollane. Punase ja sinise kombineerimisel on tulemuseks magentapunane. Kui sinine ja roheline kombineerida, on tulemuseks tsüaansinine. Kasutatud kolme algvärvi heledust muutes on võimalik saada veel rohkem värve kui need.
 
-Arvutid hoiavad kõike 1s ja 0s. Need 1s ja 0s on tihti korrastatud kogumitesse 8, mida nimetatakse **baitiks**.
+Arvutid salvestavad kõike arvude 1 ja 0 abil. Need 1s ja 0s on tihti korrastatud kogumitesse 8, mida nimetatakse **baitiks**.
 
 Ühe baidi võib esindada mis tahes arvu vahemikus 0 kuni 255.
 
