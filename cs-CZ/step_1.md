@@ -23,6 +23,6 @@ Zde je tabulka znázorňující některé hodnoty barev:
 | 0       | 0      | 255   | Modrá     |
 | 255     | 255    | 0     | Žlutá     |
 | 255     | 0      | 255   | Purpurová |
-| 0       | 255    | 255   | Tyrkysová |
+| 0       | 255    | 255   | Azurová   |
 
-Pěkný nástroj pro [výběr a tvorbu barev najdeš W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = „_ blank“}.
+Pěkný nástroj pro [výběr a tvorbu barev najdeš W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){:target = „_ blank“}.
