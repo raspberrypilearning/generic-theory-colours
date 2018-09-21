@@ -6,7 +6,7 @@ Inimesed näevad värve tänu erilistele rakkudele meie silmades. Neid rakke nim
 
 ![Aditiivne värvide segamine](images/additive-colour-mixing.png)
 
-Aditiivse värvide segamise puhul kasutatakse teiste värvuste saamiseks kolme värvust (punane, roheline ja sinine). Ülaltoodud pildil on kolm võrdse heledusega prožektorit, üks iga värvuse kohta. Kui värvus üldse puudub, on tulemuseks must. Kui kõik kolm värvust on kokku segatud, on tulemuseks valge. Punase ja rohelise kombineerimisel on tulemuseks kollane. Punase ja sinise kombineerimisel on tulemuseks purpur. Kui sinine ja roheline kombineerida, on tulemuseks tsüaansinine. Kasutatud kolme algvärvuse heledust muutes on võimalik saada veel rohkem värvusi kui need.
+Aditiivse värvide segamise puhul kasutatakse teiste värvuste saamiseks kolme värvust (punane, roheline ja sinine). Ülaltoodud pildil on kolm võrdse heledusega prožektorit, üks iga värvuse kohta. Kui värvus üldse puudub, on tulemuseks must. Kui kõik kolm värvust on kokku segatud, on tulemuseks valge. Punase ja rohelise kombineerimisel on tulemuseks kollane. Punase ja sinise kombineerimisel on tulemuseks purpur. Kui sinine ja roheline kombineerida, on tulemuseks tsüaansinine. Kasutatud kolme algvärvuse heledust muutes on võimalik saada veel rohkem värvusi kui eelpool mainitud.
 
 Arvutid salvestavad kõike arvude 1 ja 0 abil. Need 1-d ja 0-d on tihti korrastatud 8-liikmelistesse hulkadesse, mida nimetatakse **bytes**.
 
@@ -16,13 +16,13 @@ Kui me tahame arvutiprogrammis mingit värvust kujutada, saame me seda teha, mä
 
 Siin on tabel, kus on näha mõningad värviväärtused:
 
-| Punane | Roheline | Sinine | Värvus   |
-| ------ | -------- | ------ | -------- |
-| 255    | 0        | 0      | Punane   |
-| 0      | 255      | 0      | Roheline |
-| 0      | 0        | 255    | Sinine   |
-| 255    | 255      | 0      | Kollane  |
-| 255    | 0        | 255    | Purpur   |
-| 0      | 255      | 255    | Tsüaan   |
+| Punane | Roheline | Sinine | Värvus       |
+| ------ | -------- | ------ | ------------ |
+| 255    | 0        | 0      | Punane       |
+| 0      | 255      | 0      | Roheline     |
+| 0      | 0        | 255    | Sinine       |
+| 255    | 255      | 0      | Kollane      |
+| 255    | 0        | 255    | Purpur       |
+| 0      | 255      | 255    | Tsüaansinine |
 
-Võite leida kena [värvivalija mängida w3schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = "_ blank"}.
+Võite leida kena [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
