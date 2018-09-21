@@ -1,4 +1,4 @@
-Objekti värv sõltub selle valguse värvusest, mida see peegeldab või kiirgab. Valgusel võivad olla erinevad lainepikkused ja valguse värvus sõltub selle lainepikkusest. Lainepikkusele vastavat valguse värvust võib näha alljärgneval skeemil. Selles võib ära tunda vikerkaarevärvid.
+Objekti värv sõltub selle valguse värvusest, mida see peegeldab või kiirgab. Valgusel võivad olla erinevad lainepikkused ja valguse värvus sõltub selle lainepikkusest. Lainepikkusele vastavat valguse värvust võib näha alljärgneval skeemil. Sellel võib ära tunda vikerkaarevärvid.
 
 ![Nähtava valguse spekter](images/linear-visible-spectrum.png)
 
