@@ -1,8 +1,8 @@
-Objekti värv sõltub selle valguse värvusest, mida see peegeldab või kiirgab. Valgusel võivad olla erinevad lainepikkused ja valguse värvus sõltub selle lainepikkusest. Lainepikkusele vastavat valguse värvust võib näha alljärgneval skeemil. Sellel võib ära tunda vikerkaarevärvid.
+Objekti värvus sõltub selle valguse värvusest, mida see peegeldab või kiirgab. Valgusel võivad olla erinevad lainepikkused ja valguse värvus sõltub selle lainepikkusest. Lainepikkusele vastavat valguse värvust võib näha alljärgneval skeemil. Sellel võib ära tunda vikerkaarevärvid.
 
 ![Nähtava valguse spekter](images/linear-visible-spectrum.png)
 
-Inimesed näevad värve tänu erilistele rakkudele meie silmades. Neid rakke nimetatakse *cones*. Meil on kolme tüüpi koonusrakud ja iga tüüp tuvastab kas punase, sinise või rohelise valguse. Seepärast on kõik värvid, mida me näeme, kõigest punase, sinise ja rohelise värvuse segu.
+Inimesed näevad värve tänu erilistele rakkudele meie silmades. Neid rakke nimetatakse * koonusteks *. Meil on kolme tüüpi koonusrakku ja iga tüüp tuvastab ühe kolmest värvist, punase, sinise või rohelise valguse. Seepärast on kõik värvid, mida me näeme, kõigest punase, sinise ja rohelise värvuse segu.
 
 ![Aditiivne värvide segamine](images/additive-colour-mixing.png)
 
@@ -10,7 +10,7 @@ Aditiivse värvide segamise puhul kasutatakse teiste värvuste saamiseks kolme v
 
 Arvutid salvestavad kõike arvude 1 ja 0 abil. Need 1-d ja 0-d on tihti korrastatud 8-liikmelistesse hulkadesse, mida nimetatakse **bytes**.
 
-Üks byte võib esindada mis tahes arvu vahemikus 0 kuni 255.
+Üksainus  bait  võib esindada mis tahes numbrit vahemikus 0 kuni 255.
 
 Kui me tahame arvutiprogrammis mingit värvust kujutada, saame me seda teha, määratledes selle värvuse moodustavate punase, sinise ja rohelise värvuse hulga. Neid koguseid salvestatakse tavaliselt ühe byte ja seega numbrina vahemikus 0 kuni 255.
 
@@ -25,4 +25,4 @@ Siin on tabel, kus on näha mõningad värviväärtused:
 | 255    | 0        | 255    | Purpur       |
 | 0      | 255      | 255    | Tsüaansinine |
 
-Võite leida kena [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Võite leida kena [värvivalija w3schools keskkonnast](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
