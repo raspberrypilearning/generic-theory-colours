@@ -1,9 +1,9 @@
 ---
-title: Representing colours with numbers
-hero_image: images / banner.png
-description: Find out how colours can be represented by three numbers
+title: Renkleri sayılarla ifade etme
+hero_image: images/banner.png
+description: Renklerin üç sayıyla nasıl ifade edilebileceğini öğrenin
 original_url:
-theme: cc-prototip
+theme: cc-prototype
 duration: 1
 ingredient: true
 listed: false
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Representing colours with numbers
+    title: Renkleri sayılarla ifade etme
