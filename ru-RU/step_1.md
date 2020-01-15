@@ -1,28 +1,28 @@
-The colour of an object depends on the colour of the light that it reflects or emits. Light can have different wavelengths, and the colour of light depends on the wavelength it has. The colour of light according to its wavelength can be seen in the diagram below. You might recognise this as the colours of the rainbow.
+Цвет объекта зависит от цвета света, который он отражает или излучает. Свет может иметь различную длину волны от которой зависит цвет света. Соответствие между цветом света и длиной волны приведено на диаграмме ниже. В них ты можешь узнать знакомые цвета радуги.
 
 ![Visible spectrum](images/linear-visible-spectrum.png)
 
-Humans see colour because of special cells in our eyes. These cells are called *cones*. We have three types of cone cells, and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
+Люди видят цвет благодаря особым клеткам в наших глазах. Эти клетки называются *колбочками*. У нас есть три типа колбочек, которые ответственны за распознавание красного, синего и зеленого светов. Поэтому все цвета, которые мы видим, представляют собой просто смеси красного, синего и зеленого цветов.
 
 ![Additive colour mixing](images/additive-colour-mixing.png)
 
-In additive colour mixing, three colours (red, green, and blue) are used to make other colours. In the image above, there are three spotlights of equal brightness, one for each colour. In the absence of any colour the result is black. If all three colours are mixed, the result is white. When red and green combine, the result is yellow. When red and blue combine, the result is magenta. When blue and green combine, the result is cyan. It's possible to make even more colours than this by varying the brightness of the three original colours used.
+При аддитивном смешении цветов используются три цвета (красный, зеленый и синий) для представления других цветов. На приведенном выше изображении есть три прожектора одинаковой яркости, по одному для каждого цвета. Отсутствие каких-либо цветов дают черный цвет. Если смешать все 3 цвета, то результат будет белый цвет. Желтый цвет получается комбинацией зеленого и красного цветов. Если смешать красный и синий цвета, то получится пурпурный цвет. Голубой цвет получается путём смешения зеленого и синего цветов. Можно получить еще больше цветов, если изменить яркость трех основных цветов (красный, зеленый, синий).
 
-Computers store everything as 1s and 0s. These 1s and 0s are often organised into sets of 8, called **bytes**.
+Компьютеры хранят все как нули (0) и единицы (1). Эти нули и единицы часто организованы в наборы из 8, называемые **байтами**.
 
-A single byte can represent any number from 0 up to 255.
+Один байт может представить любое число от 0 до 255.
 
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+Когда мы хотим задать цвет в компьютерной программе, мы можем это сделать указав количество красного, синего и зеленого цветов, которые образуют этот цвет. Эти величины обычно представлены одним байтом и поэтому имеют значения от 0 до 255.
 
-Here's a table showing some colour values:
+Приведенная ниже таблица показывает значения некоторых цветов:
 
-| Red | Green | Blue | Colour  |
-| --- | ----- | ---- | ------- |
-| 255 | 0     | 0    | Red     |
-| 0   | 255   | 0    | Green   |
-| 0   | 0     | 255  | Blue    |
-| 255 | 255   | 0    | Yellow  |
-| 255 | 0     | 255  | Magenta |
-| 0   | 255   | 255  | Cyan    |
+| Красный | Зеленый | Синий | Цвет      |
+| ------- | ------- | ----- | --------- |
+| 255     | 0       | 0     | Красный   |
+| 0       | 255     | 0     | Зеленый   |
+| 0       | 0       | 255   | Синий     |
+| 255     | 255     | 0     | Желтый    |
+| 255     | 0       | 255   | Пурпурный |
+| 0       | 255     | 255   | Голубой   |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Вы можете поэкспериментировать с [инструментом выбора цвета в w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
