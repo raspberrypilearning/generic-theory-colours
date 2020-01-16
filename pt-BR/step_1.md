@@ -2,7 +2,7 @@ A cor de um objeto depende da cor da luz que ele reflete ou emite. A luz pode te
 
 ![Visible spectrum](images/linear-visible-spectrum.png)
 
-Os humanos enxergam cores devido a células especiais presentes em nossos olhos. These cells are called *cones*. We have three types of cone cells, and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
+Os humanos enxergam cores devido a células especiais presentes em nossos olhos. Essas células são chamas *cones*. Nós temos três tipos de células cônicas, onde cada uma é responsável por detectar a cor vermelha, azul ou verde. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
 
 ![Additive colour mixing](images/additive-colour-mixing.png)
 
