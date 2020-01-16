@@ -6,7 +6,7 @@ Os humanos enxergam cores devido a células especiais presentes em nossos olhos.
 
 ![Additive colour mixing](images/additive-colour-mixing.png)
 
-Nas cores aditivas, três cores (vermelho, azul e verde) são usadas para originar outras cores. Na imagem acima, existem três cores projetadas com mesmo brilho, uma de cada cor. Na falta de qualquer cor, o resultado é preto. Se todas essas cores forem combinadas, o resultado é branco. When red and green combine, the result is yellow. When red and blue combine, the result is magenta. When blue and green combine, the result is cyan. It's possible to make even more colours than this by varying the brightness of the three original colours used.
+Nas cores aditivas, três cores (vermelho, azul e verde) são usadas para originar outras cores. Na imagem acima, existem três cores projetadas com mesmo brilho, uma de cada cor. Na falta de qualquer cor, tem-se a cor preta. Se todas essas cores forem combinadas, a cor será branca. Quando vermelho e verde se combinam, a cor é amarela. Quando vermelho e azul se combinam, a cor é magenta. Quando azul e verde se combinam, a cor é ciano. It's possible to make even more colours than this by varying the brightness of the three original colours used.
 
 Computers store everything as 1s and 0s. These 1s and 0s are often organised into sets of 8, called **bytes**.
 
