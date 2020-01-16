@@ -1,8 +1,8 @@
-A cor de um objeto depende da cor da luz que ele reflete ou emite. A luz pode ter diferentes comprimentos de onda, assim como sua cor depende do comprimento de onda que ela possui. A cor da luz, de acordo com seu comprimento de onda, pode ser conferido abaixo. Você talvez possa identificar algumas como as cores do arco-íris.
+A cor de um objeto depende da cor da luz que o objeto reflete ou emite. A luz pode ter diferentes comprimentos de onda, assim como sua cor depende do comprimento de onda que ela possui. A cor da luz, de acordo com seu comprimento de onda, pode ser conferido abaixo. Você talvez possa identificar algumas como as cores do arco-íris.
 
 ![Visible spectrum](images/linear-visible-spectrum.png)
 
-Os humanos enxergam cores devido a células especiais presentes em nossos olhos. Essas células são chamas *cones*. Nós temos três tipos de células cônicas, onde cada uma é responsável por detectar a cor vermelha, azul ou verde. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
+Os humanos enxergam cores devido a células especiais presentes em nossos olhos. Essas células são chamas *cones*. Nós temos três tipos de células cônicas, onde cada uma é responsável por detectar a cor vermelha, azul ou verde. Assim, todas as cores que enxergamos são combinações das cores vermelho, azul e verde.
 
 ![Additive colour mixing](images/additive-colour-mixing.png)
 
