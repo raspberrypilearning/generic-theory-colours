@@ -1,4 +1,4 @@
-A cor de um objeto depende da cor da luz que ele reflete ou emite. Light can have different wavelengths, and the colour of light depends on the wavelength it has. The colour of light according to its wavelength can be seen in the diagram below. You might recognise this as the colours of the rainbow.
+A cor de um objeto depende da cor da luz que ele reflete ou emite. A luz pode ter diferentes comprimentos de onda, assim como sua cor depende do comprimento de onda que ela possui. A cor da luz, de acordo com seu comprimento de onda, pode ser conferido abaixo. You might recognise this as the colours of the rainbow.
 
 ![Visible spectrum](images/linear-visible-spectrum.png)
 
