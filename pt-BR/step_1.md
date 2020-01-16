@@ -2,11 +2,11 @@ A cor de um objeto depende da cor da luz que o objeto reflete ou emite. A luz po
 
 ![Visible spectrum](images/linear-visible-spectrum.png)
 
-Os humanos enxergam cores devido a células especiais presentes em nossos olhos. Essas células são chamas *cones*. Nós temos três tipos de células cônicas, onde cada uma é responsável por detectar a cor vermelha, azul ou verde. Assim, todas as cores que enxergamos são combinações das cores vermelho, azul e verde.
+Os humanos enxergam cores devido a células especiais presentes em nossos olhos. Essas células são chamadas *cones*. Nós temos três tipos de células cônicas, onde cada uma é responsável por detectar a cor vermelha, azul ou verde. Assim, todas as cores que enxergamos são combinações dessas mesmas cores.
 
 ![Additive colour mixing](images/additive-colour-mixing.png)
 
-In additive colour mixing, three colours (red, green, and blue) are used to make other colours. In the image above, there are three spotlights of equal brightness, one for each colour. In the absence of any colour the result is black. If all three colours are mixed, the result is white. When red and green combine, the result is yellow. When red and blue combine, the result is magenta. When blue and green combine, the result is cyan. It's possible to make even more colours than this by varying the brightness of the three original colours used.
+Nas cores aditivas, três cores (vermelho, azul e verde) são usadas para originar outras cores. Na imagem acima, existem três cores projetadas com mesmo brilho, uma de cada cor. Na falta de qualquer cor, o resultado é preto. Se todas essas cores forem combinadas, o resultado é branco. When red and green combine, the result is yellow. When red and blue combine, the result is magenta. When blue and green combine, the result is cyan. It's possible to make even more colours than this by varying the brightness of the three original colours used.
 
 Computers store everything as 1s and 0s. These 1s and 0s are often organised into sets of 8, called **bytes**.
 
