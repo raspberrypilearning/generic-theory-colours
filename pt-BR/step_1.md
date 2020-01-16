@@ -1,8 +1,8 @@
-A cor de um objeto depende da cor da luz que ele reflete ou emite. A luz pode ter diferentes comprimentos de onda, assim como sua cor depende do comprimento de onda que ela possui. A cor da luz, de acordo com seu comprimento de onda, pode ser conferido abaixo. You might recognise this as the colours of the rainbow.
+A cor de um objeto depende da cor da luz que ele reflete ou emite. A luz pode ter diferentes comprimentos de onda, assim como sua cor depende do comprimento de onda que ela possui. A cor da luz, de acordo com seu comprimento de onda, pode ser conferido abaixo. Você talvez possa identificar algumas como as cores do arco-íris.
 
 ![Visible spectrum](images/linear-visible-spectrum.png)
 
-Humans see colour because of special cells in our eyes. These cells are called *cones*. We have three types of cone cells, and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
+Os humanos enxergam cores devido a células especiais presentes em nossos olhos. These cells are called *cones*. We have three types of cone cells, and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
 
 ![Additive colour mixing](images/additive-colour-mixing.png)
 
@@ -16,13 +16,13 @@ When we want to represent a colour in a computer program, we can do this by defi
 
 Here's a table showing some colour values:
 
-| Vermelho | Verde | Azul | Colour   |
+| Vermelho | Verde | Azul | Cor      |
 | -------- | ----- | ---- | -------- |
 | 255      | 0     | 0    | Vermelho |
 | 0        | 255   | 0    | Verde    |
 | 0        | 0     | 255  | Azul     |
 | 255      | 255   | 0    | Amarelo  |
 | 255      | 0     | 255  | Magenta  |
-| 0        | 255   | 255  | Cyan     |
+| 0        | 255   | 255  | Ciano    |
 
 You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
