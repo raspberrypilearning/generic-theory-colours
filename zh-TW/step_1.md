@@ -1,28 +1,28 @@
-The colour of an object depends on the colour of the light that it reflects or emits. Light can have different wavelengths, and the colour of light depends on the wavelength it has. The colour of light according to its wavelength can be seen in the diagram below. You might recognise this as the colours of the rainbow.
+物體的顏色取決於它反射或發出的光的顏色 光具有不同的波長，光的顏色取決於它的波長。 下面的圖表可以看到根據不同波長的光的顏色 你應該會認出這是彩虹的顏色。
 
-![Visible spectrum](images/linear-visible-spectrum.png)
+![可見光譜](images/linear-visible-spectrum.png)
 
-Humans see colour because of special cells in our eyes. These cells are called *cones*. We have three types of cone cells, and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
+人之所以能夠看到顏色，是因為我們眼睛裡有特殊的細胞。 這些細胞叫做 *視錐細胞*。 我們有三種不同類型的視錐細胞，每種類型的視錐細胞檢測紅色、藍色或綠色的光。 因此，我們看到的所有顏色都是由紅色、藍色、綠色混合而成的。
 
-![Additive colour mixing](images/additive-colour-mixing.png)
+![加色混合](images/additive-colour-mixing.png)
 
-In additive colour mixing, three colours (red, green, and blue) are used to make other colours. In the image above, there are three spotlights of equal brightness, one for each colour. In the absence of any colour the result is black. If all three colours are mixed, the result is white. When red and green combine, the result is yellow. When red and blue combine, the result is magenta. When blue and green combine, the result is cyan. It's possible to make even more colours than this by varying the brightness of the three original colours used.
+在加色混合中，三種顏色（紅色R、綠色G和藍色B）被用來製造出其他的顏色。 在上圖中，有三個相同亮度的聚光燈，每個燈為一種顏色。 在沒有任何燈光顏色的情況下，呈現結果是黑色。 如果將三種燈光顏色混合在一起，則結果為白色。 當紅色和綠色結合時，結果為黃色。 當紅色和藍色結合時，結果為紫紅色。 當藍色和綠色結合時，結果為青色。 透過更改使用的三原色的亮度，可以製作出比這更多的顏色。
 
-Computers store everything as 1s and 0s. These 1s and 0s are often organised into sets of 8, called **bytes**.
+電腦將所有內容儲存為1和0。 這些1和0常常被組織成八組，稱為 **位元組**。
 
-A single byte can represent any number from 0 up to 255.
+一個 位元組 可以代表從0到255之間的任何數字。
 
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+當我們想在電腦程序中表示一種顏色時，我們可以通過定義構成該顏色的紅色，藍色和綠色的數值來完成。 這些數值通常儲存為一個位元組 ，因此為一個0到255之間的數字。
 
-Here's a table showing some colour values:
+此表顯示了一些顏色值：
 
-| Red | Green | Blue | Colour  |
-| --- | ----- | ---- | ------- |
-| 255 | 0     | 0    | Red     |
-| 0   | 255   | 0    | Green   |
-| 0   | 0     | 255  | Blue    |
-| 255 | 255   | 0    | Yellow  |
-| 255 | 0     | 255  | Magenta |
-| 0   | 255   | 255  | Cyan    |
+| 紅色  | 綠色  | 藍色  | 顏色  |
+| --- | --- | --- | --- |
+| 255 | 0   | 0   | 紅色  |
+| 0   | 255 | 0   | 綠色  |
+| 0   | 0   | 255 | 藍色  |
+| 255 | 255 | 0   | 黃色  |
+| 255 | 0   | 255 | 紫紅色 |
+| 0   | 255 | 255 | 青色  |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+你可以在[w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}找到一個很好的選色器來玩 .
