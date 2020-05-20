@@ -1,7 +1,7 @@
 ---
-title: Representing colours with numbers
+title: 用數字表示顏色
 hero_image: images/banner.png
-description: Find out how colours can be represented by three numbers
+description: 了解如何用三個數字來表示顏色
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Representing colours with numbers
+    title: 用數字表示顏色
