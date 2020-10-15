@@ -10,7 +10,7 @@ Aditiivse värvide segamise puhul kasutatakse teiste värvuste saamiseks kolme v
 
 Arvutid salvestavad kõike arvude 1 ja 0 abil. Need 1-d ja 0-d on tihti korrastatud 8-liikmelistesse hulkadesse, mida nimetatakse **bytes**.
 
-Üksainus  bait  võib esindada mis tahes numbrit vahemikus 0 kuni 255.
+Üks byte võib esindada mis tahes arvu vahemikus 0 kuni 255.
 
 Kui me tahame arvutiprogrammis mingit värvust kujutada, saame me seda teha, määratledes selle värvuse moodustavate punase, sinise ja rohelise värvuse hulga. Neid koguseid salvestatakse tavaliselt ühe byte ja seega numbrina vahemikus 0 kuni 255.
 
