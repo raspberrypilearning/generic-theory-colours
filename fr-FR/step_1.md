@@ -25,4 +25,4 @@ Voici un tableau montrant certaines valeurs de couleur:
 | 255   | 0    | 255  | Magenta |
 | 0     | 255  | 255  | Cyan    |
 
-Tu peux trouver un bon [sélecteur de couleurs pour jouer avec au W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){: target = « _ blank »}.
+Tu peux trouver un bon [sélecteur de couleurs pour jouer avec au W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
