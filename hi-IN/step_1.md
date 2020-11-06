@@ -1,28 +1,28 @@
-The colour of an object depends on the colour of the light that it reflects or emits. Light can have different wavelengths, and the colour of light depends on the wavelength it has. The colour of light according to its wavelength can be seen in the diagram below. You might recognise this as the colours of the rainbow.
+किसी वस्तु का रंग उस प्रकाश के रंग पर निर्भर करता है जिसे वह प्रतिबिंबित या उत्सर्जित (प्रसारित करता) करता है। प्रकाश में अलग-अलग तरंग दैर्ध्य (तरंग आयाम) हो सकते हैं, और प्रकाश का रंग उस तरंगदैर्ध्य (तरंग आयाम) पर निर्भर करता है जो उसके पास है। इसकी तरंग दैर्ध्य (तरंग आयाम) के अनुसार प्रकाश का रंग नीचे आरेख में देखा जा सकता है। आप इसे इंद्रधनुष के रंगों के रूप में पहचान सकते हैं।
 
 ![Visible spectrum](images/linear-visible-spectrum.png)
 
-Humans see colour because of special cells in our eyes. These cells are called *cones*. We have three types of cone cells, and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
+हमारी आंखों में विशेष कोशिकाओं के कारण मनुष्य रंग देखता है। इन कोशिकाओं को नेत्र शंकु कहा जाता है। हमारे पास तीन प्रकार की शंकु कोशिकाएं हैं, और प्रत्येक प्रकार लाल, नीले या हरे रंग के प्रकाश का पता लगाता है। इसलिए हमारे द्वारा देखे जाने वाले सभी रंग लाल, नीले और हरे रंग के मिश्रण हैं।
 
 ![Additive colour mixing](images/additive-colour-mixing.png)
 
-In additive colour mixing, three colours (red, green, and blue) are used to make other colours. In the image above, there are three spotlights of equal brightness, one for each colour. In the absence of any colour the result is black. If all three colours are mixed, the result is white. When red and green combine, the result is yellow. When red and blue combine, the result is magenta. When blue and green combine, the result is cyan. It's possible to make even more colours than this by varying the brightness of the three original colours used.
+योगशील रंग मिश्रण में, तीन रंगों (लाल, हरा और नीला) का उपयोग अन्य रंगों को बनाने के लिए किया जाता है। ऊपर दिए गए चित्र के अनुसार , समान चमक के तीन स्पॉटलाइट हैं, प्रत्येक रंग के लिए एक। किसी भी रंग की अनुपस्थिति में परिणाम काला रंग होता है। यदि तीनों रंग मिश्रित हैं, तो परिणाम सफेद है। जब लाल और हरे रंग का संयोजन होता है, तो परिणाम पीला होता है। जब लाल और हरे रंग का संयोजन होता है, तो परिणाम पीला होता है। जब लाल और हरे रंग का संयोजन होता है, तो परिणाम पीला होता है। उपयोग किए गए तीन मूल रंगों की चमक को अलग करके इससे अधिक रंग बनाना संभव है।
 
-Computers store everything as 1s and 0s. These 1s and 0s are often organised into sets of 8, called **bytes**.
+कंप्यूटर 1s (एक) और 0s (शुन्य) के रूप में सब कुछ संग्रहीत करते हैं। इन 1s (एक) और 0s (शुन्य) को अक्सर 8 के सेट में व्यवस्थित किया जाता है, जिसे बाइट्स कहा जाता है।
 
-A single byte can represent any number from 0 up to 255.
+एक एकल बाइट 0 से 255 तक किसी भी संख्या का प्रतिनिधित्व कर सकता है।
 
-जब हम एक कंप्यूटर प्रोग्राम में एक रंग का प्रतिनिधित्व करना चाहते हैं, तो हम लाल, नीले और हरे रंग की मात्रा को परिभाषित करके उस रंग को बना सकते हैं । These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+जब हम एक कंप्यूटर प्रोग्राम में एक रंग का प्रतिनिधित्व करना चाहते हैं, तो हम लाल, नीले और हरे रंग की मात्रा को परिभाषित करके उस रंग को बना सकते हैं । इन राशियों को आमतौर पर एक बाइट रूप में संग्रहीत किया जाता है और इसलिए 0 और 255 के बीच की संख्या के रूप में।
 
-यहां कुछ रंग मूल्यों को दर्शाने वाली तालिका है:
+नीचे दी गयी सूचि कुछ रंगो के मूल्य को उनके संख्यात्मक मूल्य के आधार पर दर्शा रही है 
 
 | लाल | हरा | नीला | रंग                 |
 | --- | --- | ---- | ------------------- |
-| २५५ | ०   | ०    | लाल                 |
-| ०   | २५५ | ०    | हरा                 |
-| ०   | ०   | २५५  | नीला                |
-| २५५ | २५५ | ०    | पीला                |
-| २५५ | ०   | २५५  | लाल बैंगनी(Magenta) |
-| ०   | २५५ | २५५  | हरिनील (Cyan)       |
+| 255 | 0   | 0    | लाल                 |
+| 0   | 255 | 0    | हरा                 |
+| 0   | 0   | 255  | नीला                |
+| 255 | 255 | 0    | पीला                |
+| 255 | 0   | 255  | लाल बैंगनी(Magenta) |
+| 0   | 255 | 255  | हरिनील (Cyan)       |
 
-आप w3schools पर खेलने के लिए एक अच्छा [ रंग पिकर पा सकते हैं ](https://www.w3schools.com/colors/colors_rgb.asp) {:target="_ blank"}।
+क्या आप अलग अलग रंग बनाना चाहते हैं? यदि हा, तो यह रंग बीनने वाला ऐप आप जरुर इस्तेमाल कीजिये जो इस वेबसाइट पर उपलब्ध है https://www.w3schools.com/colors/colors_rgb.asp
