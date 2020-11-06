@@ -23,6 +23,6 @@ Aquí hay una tabla que muestra algunos valores de color:
 | 0    | 0     | 255  | Azul     |
 | 255  | 255   | 0    | Amarillo |
 | 255  | 0     | 255  | Magenta  |
-| 0    | 255   | 255  | Cyan     |
+| 0    | 255   | 255  | Cian     |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Puedes encontrar un buen [selector de color para jugar en w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_ blank"}.
