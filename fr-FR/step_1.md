@@ -12,7 +12,7 @@ Les ordinateurs stockent tout en tant que 1 et 0. Ces 1 et 0 sont souvent organi
 
 Un seul octet peut représenter n'importe quel nombre de 0 à 255.
 
-Lorsque nous voulons représenter une couleur dans un programme informatique, nous pouvons le faire en définissant les quantités de rouge, de bleu et de vert qui composent cette couleur. Ces quantités sont généralement stockés sous forme d' un seul octet et donc comme un nombre compris entre 0 et 255.
+Lorsque nous voulons représenter une couleur dans un programme informatique, nous pouvons le faire en définissant les quantités de rouge, de bleu et de vert qui composent cette couleur. Ces quantités sont généralement stockées sous la forme d'un seul octet et donc d'un nombre compris entre 0 et 255.
 
 Voici un tableau montrant certaines valeurs de couleur:
 
@@ -25,4 +25,4 @@ Voici un tableau montrant certaines valeurs de couleur:
 | 255   | 0    | 255  | Magenta |
 | 0     | 255  | 255  | Cyan    |
 
-Tu peux trouver un bon [sélecteur de couleurs pour jouer avec au W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Tu peux trouver un bon [sélecteur de couleurs sur W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
