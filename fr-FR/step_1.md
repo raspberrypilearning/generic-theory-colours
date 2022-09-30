@@ -1,14 +1,14 @@
-La couleur d'un objet dépend de la couleur de la lumière qu'il réfléchit ou émet. La lumière peut avoir différentes longueurs d'onde et la couleur de la lumière dépend de la longueur d'onde. La couleur donnée par la lumière en fonction de sa longueur d'onde peut être vue dans le diagramme ci-dessous. Tu pourrais reconnaître cela comme les couleurs de l'arc-en-ciel.
+La couleur d'un objet dépend de la couleur de la lumière qu'il réfléchit ou émet. La lumière peut avoir différentes longueurs d'onde et la couleur de la lumière dépend de sa longueur d'onde. La couleur donnée par la lumière en fonction de sa longueur d'onde peut être vue dans le diagramme ci-dessous. Tu pourrais reconnaître cela comme les couleurs de l'arc-en-ciel.
 
 ![Spectre visible](images/linear-visible-spectrum.png)
 
-Les humains voient la couleur grâce à des cellules spéciales dans nos yeux. Ces cellules sont appelées *cônes*. Nous avons trois types de cellules de cône et chaque type détecte soit une lumière rouge, bleue ou verte. Par conséquent, toutes les couleurs que nous voyons ne sont que des mélanges de couleurs rouge, bleu et vert.
+Les humains voient les couleurs grâce à des cellules spéciales dans leurs yeux. Ces cellules sont appelées *cônes*. Nous avons trois types de cellules de cône et chaque type détecte soit une lumière rouge, bleue ou verte. Par conséquent, toutes les couleurs que nous voyons ne sont que des mélanges de couleurs rouge, bleu et vert.
 
 ![Mélange de couleurs additif](images/additive-colour-mixing.png)
 
-Dans le mélange de couleurs additif, trois couleurs (rouge, vert et bleu) sont utilisées pour créer d'autres couleurs. Dans l'image ci-dessus, il y a trois spots de même luminosité, un pour chaque couleur. En l'absence de toute couleur, le résultat est noir. Si les trois couleurs sont mélangées, le résultat est blanc. Lorsque rouge et vert se combinent, le résultat est jaune. Lorsque rouge et bleu se combinent, le résultat est magenta. Lorsque bleu et vert se combinent, le résultat est cyan. Il est possible de faire encore plus de couleurs en faisant varier la luminosité des trois couleurs originales utilisées.
+Dans le mélange de couleurs additif, trois couleurs (rouge, vert et bleu) sont utilisées pour créer d'autres couleurs. Dans l'image ci-dessus, il y a trois spots de même luminosité, un pour chaque couleur. En l'absence de toute couleur, le résultat est noir. Si les trois couleurs sont mélangées, le résultat est blanc. Lorsque rouge et vert se combinent, le résultat est jaune. Lorsque rouge et bleu se combinent, le résultat est magenta. Lorsque bleu et vert se combinent, le résultat est cyan. Il est possible d'obtenir encore plus de couleurs en variant la luminosité des trois couleurs originales utilisées.
 
-Les ordinateurs stockent tout en tant que 1 et 0. Ces 1 et 0 sont souvent organisés en ensembles de 8, appelés **octets**.
+Les ordinateurs enregistrent tout sous forme de uns et de zéros. Ces uns et ces zéros sont souvent combinés en ensembles de 8, appelés **octets**.
 
 Un seul octet peut représenter n'importe quel nombre de 0 à 255.
 
