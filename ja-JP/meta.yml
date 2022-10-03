@@ -1,7 +1,7 @@
 ---
-title: Representing colours with numbers
+title: 色を数字で表現する
 hero_image: images/banner.png
-description: Find out how colours can be represented by three numbers
+description: ３つの数字で色を表す方法を見つける
 original_url:
 theme: cc-prototype
 duration: 1
@@ -12,4 +12,4 @@ interests: ""
 technologies: ""
 steps:
   - 
-    title: Representing colours with numbers
+    title: 色を数字で表現する
