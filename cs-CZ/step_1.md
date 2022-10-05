@@ -1,18 +1,18 @@
-Barva objektu závisí na barvě světla, které odráží nebo vyzařuje. Světlo může mít různé vlnové délky a barva světla závisí na vlnové délce, kterou má. Barva světla podle jeho vlnové délky je vidět na obrázku níže. Je to stejné jako s barvami duhy.
+Barva objektu závisí na barvě světla, které odráží nebo vyzařuje. Světlo může mít různé vlnové délky a na ní právě barva světla závisí. Barva světla podle jeho vlnové délky je vidět na obrázku níže. Je to stejné jako s barvami duhy.
 
 ![Viditelné spektrum](images/linear-visible-spectrum.png)
 
-Vidíme barvu díky speciálním buňkám v našich očích. Tyto buňky se nazývají *čípky*. Máme tři typy barvocitlivých buněk a každý typ detekuje buď červené, modré nebo zelené světlo. Všechny barvy, které vidíme, jsou tak směsí tvořenou barvami červená, modrá a zelená.
+Barvu jsme schopni vidět díky speciálním buňkám v našich očích. Tyto buňky se nazývají *čípky*. Máme tři typy barvocitlivých buněk a každý typ detekuje buď červené, modré nebo zelené světlo. Všechny barvy, které vidíme, jsou tak směsí tvořenou barvami červená, modrá a zelená.
 
 ![Aditivní míchání barev](images/additive-colour-mixing.png)
 
-Při aditivním míchání barev se k vytvoření dalších barev používají tři barvy (červená, zelená a modrá). V obrázku výše vidíte tři reflektory, které svítí stejným jasem, jeden pro každou barvu. Při absenci barev je výsledek černý. Pokud smícháme všechny tři barvy, je výsledek bílý. Při kombinaci červené a zelené barvy je výsledek žlutý. Při kombinaci červené a modré barvy je výsledek purpurový. Při kombinování modré a zelené je výsledek azurový. Když budeš měnit i jas tří původních barev, je možné vytvořit daleko více možností.
+Při aditivním míchání barev se k vytvoření dalších barev používají tři barvy (červená, zelená a modrá). V obrázku výše můžeš vidět tři reflektory, které svítí stejným jasem, jeden pro každou barvu. Pokud barvy chybí, výsledek je černá. Pokud smícháme všechny tři barvy, výsledek je bílá. Zkombinováním červené a zelené vznikne žlutá. Zkombinováním červené a modré vznikne purpurová. Zkombinováním modré a zelené vznikne azurová. Změníš-li jas třech původních barev, můžeš jich vytvořit daleko více.
 
 Počítače ukládají vše jako jedničky (1) a nuly (0). Tyto 1 a 0 jsou často uspořádány do sad po 8, které se nazývají **bajty**.
 
 Jediný bajt může reprezentovat libovolné číslo od 0 do 255.
 
-Když chceme v počítačovém programu reprezentovat barvu, můžeme to udělat tím, že definujeme množství červené, modré a zelené barvy, které tvoří tuto barvu. Tato množství jsou obvykle uložena jako jeden bajt a tedy jako číslo mezi 0 a 255.
+Když chceme v počítačovém programu reprezentovat barvu, můžeme to udělat tak, že definujeme poměr červené, modré a zelené barvy, z kterého se tato barva skládá. Tyto hodnoty se obvykle ukládají jako jeden byte, a tedy jako číslo v rozmezí 0 až 255.
 
 Zde je tabulka znázorňující některé hodnoty barev:
 
@@ -25,4 +25,4 @@ Zde je tabulka znázorňující některé hodnoty barev:
 | 255     | 0      | 255   | Purpurová |
 | 0       | 255    | 255   | Azurová   |
 
-Pěkný nástroj pro [výběr a tvorbu barev najdeš W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){:target = „_ blank“}.
+Pěkný nástroj pro [výběr a tvorbu barev najdeš na W3Schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
