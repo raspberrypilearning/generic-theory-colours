@@ -1,28 +1,28 @@
-モノの色は、そのモノの反射や発光による光の色に寄ります。 光は複数の異なる波長で構成されています。光の色はその波長によって異なります。 光の色と波長の関係については下のダイアグラムで見ることができます。 もしかしたら、これが虹の色を示していることに気づくかもしれませんね。
+モノの色は、そのモノの反射や発光による光の色で決まります。 光は複数の異なる波長で構成されています。光の色はその波長によって異なります。 光の色と波長の関係については下のダイアグラムで見ることができます。 もしかしたら、これが虹の色を示していることに気づくかもしれませんね。
 
-![Visible spectrum](images/linear-visible-spectrum.png)
+![可視スペクトル](images/linear-visible-spectrum.png)
 
-Humans see colour because of special cells in our eyes. These cells are called *cones*. We have three types of cone cells, and each type detects either red, blue, or green light. Therefore all the colours that we see are just mixtures of the colours red, blue, and green.
+人間が色を認識できるのは、目の中にある特別な細胞のおかげです。 これらの細胞は*錐体細胞*と呼ばれています。 錐体細胞には 3 つのタイプがあり、それぞれのタイプが赤、青、または緑の光を検出します。 したがって、私たちが目にするすべての色は、赤、青、緑の色の混合物にすぎません。
 
-![Additive colour mixing](images/additive-colour-mixing.png)
+![加法混色](images/additive-colour-mixing.png)
 
-In additive colour mixing, three colours (red, green, and blue) are used to make other colours. In the image above, there are three spotlights of equal brightness, one for each colour. In the absence of any colour the result is black. If all three colours are mixed, the result is white. When red and green combine, the result is yellow. When red and blue combine, the result is magenta. When blue and green combine, the result is cyan. It's possible to make even more colours than this by varying the brightness of the three original colours used.
+加法混色では、3 色 (赤、緑、青) を使用して他の色を作ります。 上の画像では、各色に 1 つずつ、同じ明るさの 3 つのスポットライトがあります。 どの色もない場合は黒色になります。 3 色すべてが混ざると、白になります。 赤と緑を組み合わせると黄色になります。 赤と青を組み合わせるとマゼンタになります。 青と緑を組み合わせるとシアンになります。 元の3色の明るさを変えることで、さらに多くの色を作ることができます。
 
-Computers store everything as 1s and 0s. These 1s and 0s are often organised into sets of 8, called **bytes**.
+コンピュータはすべてを 1 と 0 の集まりにして保存します。 これらの 1 と 0 は、多くの場合、 **バイト**と呼ばれる 8 個を1セットにして構成します。
 
-A single byte can represent any number from 0 up to 255.
+1バイトは0から255までの数を表すことができます。
 
-When we want to represent a colour in a computer program, we can do this by defining the amounts of red, blue, and green that make up that colour. These amounts are usually stored as a single byte and therefore as a number between 0 and 255.
+コンピュータープログラムで色を表現したい場合、その色を構成する赤、青、緑の明るさを定義することでこれを行うことができます。 これらの明るさの情報は通常1バイト、つまり0から255までの数で保存されます。
 
-Here's a table showing some colour values:
+以下の表はいくつかの色の値を示しています。
 
-| 赤   | 緑   | Blue | Colour  |
-| --- | --- | ---- | ------- |
-| 255 | 0   | 0    | 赤       |
-| 0   | 255 | 0    | 緑       |
-| 0   | 0   | 255  | Blue    |
-| 255 | 255 | 0    | Yellow  |
-| 255 | 0   | 255  | Magenta |
-| 0   | 255 | 255  | Cyan    |
+| 赤   | 緑   | 青   | 色    |
+| --- | --- | --- | ---- |
+| 255 | 0   | 0   | 赤    |
+| 0   | 255 | 0   | 緑    |
+| 0   | 0   | 255 | 青    |
+| 255 | 255 | 0   | 黄    |
+| 255 | 0   | 255 | マゼンタ |
+| 0   | 255 | 255 | シアン  |
 
-You can find a nice [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+[w3schoolsに楽しく遊べるカラーピッカー](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}があります。
