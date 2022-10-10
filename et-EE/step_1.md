@@ -1,8 +1,8 @@
-Objekti värv sõltub selle valguse värvusest, mida see peegeldab või kiirgab. Valgusel võivad olla erinevad lainepikkused ja valguse värvus sõltub selle lainepikkusest. Lainepikkusele vastavat valguse värvust võib näha alljärgneval skeemil. Sellel võib ära tunda vikerkaarevärvid.
+Objekti värvus sõltub selle valguse värvusest, mida see peegeldab või kiirgab. Valgusel võivad olla erinevad lainepikkused ja valguse värvus sõltub selle lainepikkusest. Lainepikkusele vastavat valguse värvust võib näha alljärgneval skeemil. Sellel võib ära tunda vikerkaarevärvid.
 
 ![Nähtava valguse spekter](images/linear-visible-spectrum.png)
 
-Inimesed näevad värve tänu erilistele rakkudele meie silmades. Neid rakke nimetatakse *cones*. Meil on kolme tüüpi koonusrakud ja iga tüüp tuvastab kas punase, sinise või rohelise valguse. Seepärast on kõik värvid, mida me näeme, kõigest punase, sinise ja rohelise värvuse segu.
+Inimesed näevad värve tänu erilistele rakkudele meie silmades. Neid rakke nimetatakse *koonusteks*. Meil on kolme tüüpi koonusrakku ja iga tüüp tuvastab ühe kolmest värvist, punase, sinise või rohelise valguse. Seepärast on kõik värvid, mida me näeme, kõigest punase, sinise ja rohelise värvuse segu.
 
 ![Aditiivne värvide segamine](images/additive-colour-mixing.png)
 
@@ -25,4 +25,4 @@ Siin on tabel, kus on näha mõningad värviväärtused:
 | 255    | 0        | 255    | Purpur       |
 | 0      | 255      | 255    | Tsüaansinine |
 
-Võite leida kena [colour picker to play with at w3schools](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
+Võite leida kena [värvivalija w3schools keskkonnast](https://www.w3schools.com/colors/colors_rgb.asp){:target="_blank"}.
